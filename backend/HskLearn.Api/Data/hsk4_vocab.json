@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 1,
+    "word": "积累",
+    "pinyin": "jīlěi",
+    "partOfSpeech": "动词",
+    "translation": "to accumulate; to build up",
+    "hskLevel": 4,
+    "exampleSentence": "学习需要不断积累知识。",
+    "examplePinyin": "Xuéxí xūyào bùduàn jīlěi zhīshi.",
+    "exampleTranslation": "Learning requires constantly accumulating knowledge."
+  },
+  {
+    "id": 2,
+    "word": "丰富",
+    "pinyin": "fēngfù",
+    "partOfSpeech": "形容词",
+    "translation": "rich; abundant; to enrich",
+    "hskLevel": 4,
+    "exampleSentence": "这座城市的文化生活非常丰富。",
+    "examplePinyin": "Zhè zuò chéngshì de wénhuà shēnghuó fēicháng fēngfù.",
+    "exampleTranslation": "The cultural life of this city is very rich."
+  },
+  {
+    "id": 3,
+    "word": "交流",
+    "pinyin": "jiāoliú",
+    "partOfSpeech": "动词",
+    "translation": "to exchange; to communicate",
+    "hskLevel": 4,
+    "exampleSentence": "我们应该多和外国人交流。",
+    "examplePinyin": "Wǒmen yīnggāi duō hé wàiguórén jiāoliú.",
+    "exampleTranslation": "We should communicate more with foreigners."
+  },
+  {
+    "id": 4,
+    "word": "环境",
+    "pinyin": "huánjìng",
+    "partOfSpeech": "名词",
+    "translation": "environment; surroundings",
+    "hskLevel": 4,
+    "exampleSentence": "保护环境是每个人的责任。",
+    "examplePinyin": "Bǎohù huánjìng shì měi gè rén de zérèn.",
+    "exampleTranslation": "Protecting the environment is everyone's responsibility."
+  },
+  {
+    "id": 5,
+    "word": "经验",
+    "pinyin": "jīngyàn",
+    "partOfSpeech": "名词",
+    "translation": "experience",
+    "hskLevel": 4,
+    "exampleSentence": "他有很多工作经验。",
+    "examplePinyin": "Tā yǒu hěn duō gōngzuò jīngyàn.",
+    "exampleTranslation": "He has a lot of work experience."
+  },
+  {
+    "id": 6,
+    "word": "效率",
+    "pinyin": "xiàolǜ",
+    "partOfSpeech": "名词",
+    "translation": "efficiency",
+    "hskLevel": 4,
+    "exampleSentence": "我们需要提高工作效率。",
+    "examplePinyin": "Wǒmen xūyào tígāo gōngzuò xiàolǜ.",
+    "exampleTranslation": "We need to improve work efficiency."
+  },
+  {
+    "id": 7,
+    "word": "竞争",
+    "pinyin": "jìngzhēng",
+    "partOfSpeech": "动词",
+    "translation": "to compete; competition",
+    "hskLevel": 4,
+    "exampleSentence": "现在市场竞争很激烈。",
+    "examplePinyin": "Xiànzài shìchǎng jìngzhēng hěn jīliè.",
+    "exampleTranslation": "The market competition is very fierce now."
+  },
+  {
+    "id": 8,
+    "word": "适应",
+    "pinyin": "shìyìng",
+    "partOfSpeech": "动词",
+    "translation": "to adapt; to adjust to",
+    "hskLevel": 4,
+    "exampleSentence": "他很快就适应了新环境。",
+    "examplePinyin": "Tā hěn kuài jiù shìyìng le xīn huánjìng.",
+    "exampleTranslation": "He quickly adapted to the new environment."
+  },
+  {
+    "id": 9,
+    "word": "压力",
+    "pinyin": "yālì",
+    "partOfSpeech": "名词",
+    "translation": "pressure; stress",
+    "hskLevel": 4,
+    "exampleSentence": "现代人的生活压力很大。",
+    "examplePinyin": "Xiàndàirén de shēnghuó yālì hěn dà.",
+    "exampleTranslation": "Modern people face a lot of life pressure."
+  },
+  {
+    "id": 10,
+    "word": "发展",
+    "pinyin": "fāzhǎn",
+    "partOfSpeech": "动词",
+    "translation": "to develop; development",
+    "hskLevel": 4,
+    "exampleSentence": "中国经济发展很快。",
+    "examplePinyin": "Zhōngguó jīngjì fāzhǎn hěn kuài.",
+    "exampleTranslation": "China's economy is developing rapidly."
+  },
+  {
+    "id": 11,
+    "word": "观点",
+    "pinyin": "guāndiǎn",
+    "partOfSpeech": "名词",
+    "translation": "viewpoint; perspective",
+    "hskLevel": 4,
+    "exampleSentence": "每个人都有自己的观点。",
+    "examplePinyin": "Měi gè rén dōu yǒu zìjǐ de guāndiǎn.",
+    "exampleTranslation": "Everyone has their own viewpoint."
+  },
+  {
+    "id": 12,
+    "word": "建议",
+    "pinyin": "jiànyì",
+    "partOfSpeech": "名词",
+    "translation": "suggestion; to suggest",
+    "hskLevel": 4,
+    "exampleSentence": "谢谢你的建议。",
+    "examplePinyin": "Xièxie nǐ de jiànyì.",
+    "exampleTranslation": "Thank you for your suggestion."
+  },
+  {
+    "id": 13,
+    "word": "计划",
+    "pinyin": "jìhuà",
+    "partOfSpeech": "名词",
+    "translation": "plan; to plan",
+    "hskLevel": 4,
+    "exampleSentence": "你有什么假期计划？",
+    "examplePinyin": "Nǐ yǒu shénme jiàqī jìhuà?",
+    "exampleTranslation": "What are your vacation plans?"
+  },
+  {
+    "id": 14,
+    "word": "社会",
+    "pinyin": "shèhuì",
+    "partOfSpeech": "名词",
+    "translation": "society",
+    "hskLevel": 4,
+    "exampleSentence": "他对社会问题很关心。",
+    "examplePinyin": "Tā duì shèhuì wèntí hěn guānxīn.",
+    "exampleTranslation": "He cares a lot about social issues."
+  },
+  {
+    "id": 15,
+    "word": "技术",
+    "pinyin": "jìshù",
+    "partOfSpeech": "名词",
+    "translation": "technology; technique",
+    "hskLevel": 4,
+    "exampleSentence": "现代技术改变了我们的生活。",
+    "examplePinyin": "Xiàndài jìshù gǎibiàn le wǒmen de shēnghuó.",
+    "exampleTranslation": "Modern technology has changed our lives."
+  },
+  {
+    "id": 16,
+    "word": "传统",
+    "pinyin": "chuántǒng",
+    "partOfSpeech": "名词",
+    "translation": "tradition; traditional",
+    "hskLevel": 4,
+    "exampleSentence": "春节是中国最重要的传统节日。",
+    "examplePinyin": "Chūnjié shì Zhōngguó zuì zhòngyào de chuántǒng jiérì.",
+    "exampleTranslation": "Spring Festival is the most important traditional holiday in China."
+  },
+  {
+    "id": 17,
+    "word": "文化",
+    "pinyin": "wénhuà",
+    "partOfSpeech": "名词",
+    "translation": "culture",
+    "hskLevel": 4,
+    "exampleSentence": "我对中国文化很感兴趣。",
+    "examplePinyin": "Wǒ duì Zhōngguó wénhuà hěn gǎn xìngqù.",
+    "exampleTranslation": "I am very interested in Chinese culture."
+  },
+  {
+    "id": 18,
+    "word": "教育",
+    "pinyin": "jiàoyù",
+    "partOfSpeech": "名词",
+    "translation": "education; to educate",
+    "hskLevel": 4,
+    "exampleSentence": "教育对一个国家的发展非常重要。",
+    "examplePinyin": "Jiàoyù duì yī gè guójiā de fāzhǎn fēicháng zhòngyào.",
+    "exampleTranslation": "Education is very important for a country's development."
+  },
+  {
+    "id": 19,
+    "word": "职业",
+    "pinyin": "zhíyè",
+    "partOfSpeech": "名词",
+    "translation": "occupation; profession",
+    "hskLevel": 4,
+    "exampleSentence": "你理想的职业是什么？",
+    "examplePinyin": "Nǐ lǐxiǎng de zhíyè shì shénme?",
+    "exampleTranslation": "What is your ideal profession?"
+  },
+  {
+    "id": 20,
+    "word": "机会",
+    "pinyin": "jīhuì",
+    "partOfSpeech": "名词",
+    "translation": "opportunity; chance",
+    "hskLevel": 4,
+    "exampleSentence": "这是一个很好的学习机会。",
+    "examplePinyin": "Zhè shì yī gè hěn hǎo de xuéxí jīhuì.",
+    "exampleTranslation": "This is a very good learning opportunity."
+  },
+  {
+    "id": 21,
+    "word": "经济",
+    "pinyin": "jīngjì",
+    "partOfSpeech": "名词",
+    "translation": "economy; economics",
+    "hskLevel": 4
+  },
+  {
+    "id": 22,
+    "word": "改变",
+    "pinyin": "gǎibiàn",
+    "partOfSpeech": "动词",
+    "translation": "to change; to transform",
+    "hskLevel": 4
+  },
+  {
+    "id": 23,
+    "word": "表达",
+    "pinyin": "biǎodá",
+    "partOfSpeech": "动词",
+    "translation": "to express; to convey",
+    "hskLevel": 4
+  },
+  {
+    "id": 24,
+    "word": "影响",
+    "pinyin": "yǐngxiǎng",
+    "partOfSpeech": "动词",
+    "translation": "to influence; influence",
+    "hskLevel": 4
+  },
+  {
+    "id": 25,
+    "word": "保护",
+    "pinyin": "bǎohù",
+    "partOfSpeech": "动词",
+    "translation": "to protect; protection",
+    "hskLevel": 4
+  },
+  {
+    "id": 26,
+    "word": "提高",
+    "pinyin": "tígāo",
+    "partOfSpeech": "动词",
+    "translation": "to improve; to raise",
+    "hskLevel": 4
+  },
+  {
+    "id": 27,
+    "word": "降低",
+    "pinyin": "jiàngdī",
+    "partOfSpeech": "动词",
+    "translation": "to lower; to reduce",
+    "hskLevel": 4
+  },
+  {
+    "id": 28,
+    "word": "增加",
+    "pinyin": "zēngjiā",
+    "partOfSpeech": "动词",
+    "translation": "to increase; to add",
+    "hskLevel": 4
+  },
+  {
+    "id": 29,
+    "word": "减少",
+    "pinyin": "jiǎnshǎo",
+    "partOfSpeech": "动词",
+    "translation": "to reduce; to decrease",
+    "hskLevel": 4
+  },
+  {
+    "id": 30,
+    "word": "比较",
+    "pinyin": "bǐjiào",
+    "partOfSpeech": "副词",
+    "translation": "relatively; to compare",
+    "hskLevel": 4
+  },
+  {
+    "id": 31,
+    "word": "证明",
+    "pinyin": "zhèngmíng",
+    "partOfSpeech": "动词",
+    "translation": "to prove; proof",
+    "hskLevel": 4
+  },
+  {
+    "id": 32,
+    "word": "反映",
+    "pinyin": "fǎnyìng",
+    "partOfSpeech": "动词",
+    "translation": "to reflect; to mirror",
+    "hskLevel": 4
+  },
+  {
+    "id": 33,
+    "word": "实现",
+    "pinyin": "shíxiàn",
+    "partOfSpeech": "动词",
+    "translation": "to realize; to achieve",
+    "hskLevel": 4
+  },
+  {
+    "id": 34,
+    "word": "组织",
+    "pinyin": "zǔzhī",
+    "partOfSpeech": "动词",
+    "translation": "to organize; organization",
+    "hskLevel": 4
+  },
+  {
+    "id": 35,
+    "word": "管理",
+    "pinyin": "guǎnlǐ",
+    "partOfSpeech": "动词",
+    "translation": "to manage; management",
+    "hskLevel": 4
+  },
+  {
+    "id": 36,
+    "word": "参加",
+    "pinyin": "cānjiā",
+    "partOfSpeech": "动词",
+    "translation": "to participate; to attend",
+    "hskLevel": 4
+  },
+  {
+    "id": 37,
+    "word": "讨论",
+    "pinyin": "tǎolùn",
+    "partOfSpeech": "动词",
+    "translation": "to discuss; discussion",
+    "hskLevel": 4
+  },
+  {
+    "id": 38,
+    "word": "研究",
+    "pinyin": "yánjiū",
+    "partOfSpeech": "动词",
+    "translation": "to research; research",
+    "hskLevel": 4
+  },
+  {
+    "id": 39,
+    "word": "解决",
+    "pinyin": "jiějué",
+    "partOfSpeech": "动词",
+    "translation": "to solve; to resolve",
+    "hskLevel": 4
+  },
+  {
+    "id": 40,
+    "word": "支持",
+    "pinyin": "zhīchí",
+    "partOfSpeech": "动词",
+    "translation": "to support; support",
+    "hskLevel": 4
+  },
+  {
+    "id": 41,
+    "word": "反对",
+    "pinyin": "fǎnduì",
+    "partOfSpeech": "动词",
+    "translation": "to oppose; to object to",
+    "hskLevel": 4
+  },
+  {
+    "id": 42,
+    "word": "吸引",
+    "pinyin": "xīyǐn",
+    "partOfSpeech": "动词",
+    "translation": "to attract; to draw",
+    "hskLevel": 4
+  },
+  {
+    "id": 43,
+    "word": "鼓励",
+    "pinyin": "gǔlì",
+    "partOfSpeech": "动词",
+    "translation": "to encourage; encouragement",
+    "hskLevel": 4
+  },
+  {
+    "id": 44,
+    "word": "申请",
+    "pinyin": "shēnqǐng",
+    "partOfSpeech": "动词",
+    "translation": "to apply for; application",
+    "hskLevel": 4
+  },
+  {
+    "id": 45,
+    "word": "合作",
+    "pinyin": "hézuò",
+    "partOfSpeech": "动词",
+    "translation": "to cooperate; cooperation",
+    "hskLevel": 4
+  },
+  {
+    "id": 46,
+    "word": "复杂",
+    "pinyin": "fùzá",
+    "partOfSpeech": "形容词",
+    "translation": "complicated; complex",
+    "hskLevel": 4
+  },
+  {
+    "id": 47,
+    "word": "重要",
+    "pinyin": "zhòngyào",
+    "partOfSpeech": "形容词",
+    "translation": "important",
+    "hskLevel": 4
+  },
+  {
+    "id": 48,
+    "word": "必要",
+    "pinyin": "bìyào",
+    "partOfSpeech": "形容词",
+    "translation": "necessary; essential",
+    "hskLevel": 4
+  },
+  {
+    "id": 49,
+    "word": "明显",
+    "pinyin": "míngxiǎn",
+    "partOfSpeech": "形容词",
+    "translation": "obvious; evident",
+    "hskLevel": 4
+  },
+  {
+    "id": 50,
+    "word": "普遍",
+    "pinyin": "pǔbiàn",
+    "partOfSpeech": "形容词",
+    "translation": "universal; widespread",
+    "hskLevel": 4
+  },
+  {
+    "id": 51,
+    "word": "严重",
+    "pinyin": "yánzhòng",
+    "partOfSpeech": "形容词",
+    "translation": "serious; severe",
+    "hskLevel": 4
+  },
+  {
+    "id": 52,
+    "word": "积极",
+    "pinyin": "jījí",
+    "partOfSpeech": "形容词",
+    "translation": "positive; active; proactive",
+    "hskLevel": 4
+  },
+  {
+    "id": 53,
+    "word": "正式",
+    "pinyin": "zhèngshì",
+    "partOfSpeech": "形容词",
+    "translation": "formal; official",
+    "hskLevel": 4
+  },
+  {
+    "id": 54,
+    "word": "具体",
+    "pinyin": "jùtǐ",
+    "partOfSpeech": "形容词",
+    "translation": "concrete; specific",
+    "hskLevel": 4
+  },
+  {
+    "id": 55,
+    "word": "深刻",
+    "pinyin": "shēnkè",
+    "partOfSpeech": "形容词",
+    "translation": "profound; deep",
+    "hskLevel": 4
+  },
+  {
+    "id": 56,
+    "word": "独立",
+    "pinyin": "dúlì",
+    "partOfSpeech": "形容词",
+    "translation": "independent; independence",
+    "hskLevel": 4
+  },
+  {
+    "id": 57,
+    "word": "合理",
+    "pinyin": "hélǐ",
+    "partOfSpeech": "形容词",
+    "translation": "reasonable; rational",
+    "hskLevel": 4
+  },
+  {
+    "id": 58,
+    "word": "有效",
+    "pinyin": "yǒuxiào",
+    "partOfSpeech": "形容词",
+    "translation": "effective; valid",
+    "hskLevel": 4
+  },
+  {
+    "id": 59,
+    "word": "充分",
+    "pinyin": "chōngfèn",
+    "partOfSpeech": "形容词",
+    "translation": "sufficient; full; ample",
+    "hskLevel": 4
+  },
+  {
+    "id": 60,
+    "word": "优秀",
+    "pinyin": "yōuxiù",
+    "partOfSpeech": "形容词",
+    "translation": "outstanding; excellent",
+    "hskLevel": 4
+  },
+  {
+    "id": 61,
+    "word": "逐渐",
+    "pinyin": "zhújiàn",
+    "partOfSpeech": "副词",
+    "translation": "gradually",
+    "hskLevel": 4
+  },
+  {
+    "id": 62,
+    "word": "不断",
+    "pinyin": "bùduàn",
+    "partOfSpeech": "副词",
+    "translation": "continuously; unceasingly",
+    "hskLevel": 4
+  },
+  {
+    "id": 63,
+    "word": "往往",
+    "pinyin": "wǎngwǎng",
+    "partOfSpeech": "副词",
+    "translation": "often; frequently; usually",
+    "hskLevel": 4
+  },
+  {
+    "id": 64,
+    "word": "仍然",
+    "pinyin": "réngrán",
+    "partOfSpeech": "副词",
+    "translation": "still; yet",
+    "hskLevel": 4
+  },
+  {
+    "id": 65,
+    "word": "否则",
+    "pinyin": "fǒuzé",
+    "partOfSpeech": "连词",
+    "translation": "otherwise; or else",
+    "hskLevel": 4
+  },
+  {
+    "id": 66,
+    "word": "至少",
+    "pinyin": "zhìshǎo",
+    "partOfSpeech": "副词",
+    "translation": "at least",
+    "hskLevel": 4
+  },
+  {
+    "id": 67,
+    "word": "尤其",
+    "pinyin": "yóuqí",
+    "partOfSpeech": "副词",
+    "translation": "especially; particularly",
+    "hskLevel": 4
+  },
+  {
+    "id": 68,
+    "word": "几乎",
+    "pinyin": "jīhū",
+    "partOfSpeech": "副词",
+    "translation": "almost; nearly",
+    "hskLevel": 4
+  },
+  {
+    "id": 69,
+    "word": "究竟",
+    "pinyin": "jiūjìng",
+    "partOfSpeech": "副词",
+    "translation": "actually; exactly; after all",
+    "hskLevel": 4
+  },
+  {
+    "id": 70,
+    "word": "然而",
+    "pinyin": "rán'ér",
+    "partOfSpeech": "连词",
+    "translation": "however; but; yet",
+    "hskLevel": 4
+  },
+  {
+    "id": 71,
+    "word": "因此",
+    "pinyin": "yīncǐ",
+    "partOfSpeech": "连词",
+    "translation": "therefore; consequently",
+    "hskLevel": 4
+  },
+  {
+    "id": 72,
+    "word": "此外",
+    "pinyin": "cǐwài",
+    "partOfSpeech": "连词",
+    "translation": "in addition; moreover",
+    "hskLevel": 4
+  },
+  {
+    "id": 73,
+    "word": "尽管",
+    "pinyin": "jǐnguǎn",
+    "partOfSpeech": "连词",
+    "translation": "despite; although; even though",
+    "hskLevel": 4
+  },
+  {
+    "id": 74,
+    "word": "态度",
+    "pinyin": "tàidu",
+    "partOfSpeech": "名词",
+    "translation": "attitude; manner",
+    "hskLevel": 4
+  },
+  {
+    "id": 75,
+    "word": "责任",
+    "pinyin": "zérèn",
+    "partOfSpeech": "名词",
+    "translation": "responsibility; duty",
+    "hskLevel": 4
+  },
+  {
+    "id": 76,
+    "word": "条件",
+    "pinyin": "tiáojiàn",
+    "partOfSpeech": "名词",
+    "translation": "condition; prerequisite",
+    "hskLevel": 4
+  },
+  {
+    "id": 77,
+    "word": "结果",
+    "pinyin": "jiéguǒ",
+    "partOfSpeech": "名词",
+    "translation": "result; outcome",
+    "hskLevel": 4
+  },
+  {
+    "id": 78,
+    "word": "原因",
+    "pinyin": "yuányīn",
+    "partOfSpeech": "名词",
+    "translation": "reason; cause",
+    "hskLevel": 4
+  },
+  {
+    "id": 79,
+    "word": "目的",
+    "pinyin": "mùdì",
+    "partOfSpeech": "名词",
+    "translation": "purpose; aim; goal",
+    "hskLevel": 4
+  },
+  {
+    "id": 80,
+    "word": "方法",
+    "pinyin": "fāngfǎ",
+    "partOfSpeech": "名词",
+    "translation": "method; way; approach",
+    "hskLevel": 4
+  },
+  {
+    "id": 81,
+    "word": "能力",
+    "pinyin": "nénglì",
+    "partOfSpeech": "名词",
+    "translation": "ability; capability",
+    "hskLevel": 4
+  },
+  {
+    "id": 82,
+    "word": "水平",
+    "pinyin": "shuǐpíng",
+    "partOfSpeech": "名词",
+    "translation": "level; standard",
+    "hskLevel": 4
+  },
+  {
+    "id": 83,
+    "word": "基础",
+    "pinyin": "jīchǔ",
+    "partOfSpeech": "名词",
+    "translation": "foundation; basis",
+    "hskLevel": 4
+  },
+  {
+    "id": 84,
+    "word": "知识",
+    "pinyin": "zhīshi",
+    "partOfSpeech": "名词",
+    "translation": "knowledge",
+    "hskLevel": 4
+  },
+  {
+    "id": 85,
+    "word": "材料",
+    "pinyin": "cáiliào",
+    "partOfSpeech": "名词",
+    "translation": "material; data",
+    "hskLevel": 4
+  },
+  {
+    "id": 86,
+    "word": "标准",
+    "pinyin": "biāozhǔn",
+    "partOfSpeech": "名词",
+    "translation": "standard; criterion",
+    "hskLevel": 4
+  },
+  {
+    "id": 87,
+    "word": "优点",
+    "pinyin": "yōudiǎn",
+    "partOfSpeech": "名词",
+    "translation": "advantage; merit; strong point",
+    "hskLevel": 4
+  },
+  {
+    "id": 88,
+    "word": "缺点",
+    "pinyin": "quēdiǎn",
+    "partOfSpeech": "名词",
+    "translation": "shortcoming; weakness",
+    "hskLevel": 4
+  },
+  {
+    "id": 89,
+    "word": "特点",
+    "pinyin": "tèdiǎn",
+    "partOfSpeech": "名词",
+    "translation": "characteristic; feature",
+    "hskLevel": 4
+  },
+  {
+    "id": 90,
+    "word": "现象",
+    "pinyin": "xiànxiàng",
+    "partOfSpeech": "名词",
+    "translation": "phenomenon",
+    "hskLevel": 4
+  },
+  {
+    "id": 91,
+    "word": "规定",
+    "pinyin": "guīdìng",
+    "partOfSpeech": "名词",
+    "translation": "regulation; rule; to stipulate",
+    "hskLevel": 4
+  },
+  {
+    "id": 92,
+    "word": "制度",
+    "pinyin": "zhìdù",
+    "partOfSpeech": "名词",
+    "translation": "system; institution",
+    "hskLevel": 4
+  },
+  {
+    "id": 93,
+    "word": "范围",
+    "pinyin": "fànwéi",
+    "partOfSpeech": "名词",
+    "translation": "scope; range; extent",
+    "hskLevel": 4
+  },
+  {
+    "id": 94,
+    "word": "内容",
+    "pinyin": "nèiróng",
+    "partOfSpeech": "名词",
+    "translation": "content",
+    "hskLevel": 4
+  },
+  {
+    "id": 95,
+    "word": "对象",
+    "pinyin": "duìxiàng",
+    "partOfSpeech": "名词",
+    "translation": "target; object; partner",
+    "hskLevel": 4
+  },
+  {
+    "id": 96,
+    "word": "思想",
+    "pinyin": "sīxiǎng",
+    "partOfSpeech": "名词",
+    "translation": "thought; thinking; ideology",
+    "hskLevel": 4
+  },
+  {
+    "id": 97,
+    "word": "篇",
+    "pinyin": "piān",
+    "partOfSpeech": "量词",
+    "translation": "measure word for articles or essays",
+    "hskLevel": 4
+  },
+  {
+    "id": 98,
+    "word": "项",
+    "pinyin": "xiàng",
+    "partOfSpeech": "量词",
+    "translation": "measure word for items or clauses",
+    "hskLevel": 4
+  },
+  {
+    "id": 99,
+    "word": "批",
+    "pinyin": "pī",
+    "partOfSpeech": "量词",
+    "translation": "measure word for batches or groups",
+    "hskLevel": 4
+  },
+  {
+    "id": 100,
+    "word": "根据",
+    "pinyin": "gēnjù",
+    "partOfSpeech": "介词",
+    "translation": "according to; based on",
+    "hskLevel": 4
+  },
+  {
+    "id": 101,
+    "word": "通过",
+    "pinyin": "tōngguò",
+    "partOfSpeech": "介词",
+    "translation": "through; via; to pass",
+    "hskLevel": 4
+  },
+  {
+    "id": 102,
+    "word": "关于",
+    "pinyin": "guānyú",
+    "partOfSpeech": "介词",
+    "translation": "about; regarding; concerning",
+    "hskLevel": 4
+  },
+  {
+    "id": 103,
+    "word": "成功",
+    "pinyin": "chénggōng",
+    "partOfSpeech": "动词",
+    "translation": "to succeed; success",
+    "hskLevel": 4
+  },
+  {
+    "id": 104,
+    "word": "失败",
+    "pinyin": "shībài",
+    "partOfSpeech": "动词",
+    "translation": "to fail; failure",
+    "hskLevel": 4
+  },
+  {
+    "id": 105,
+    "word": "存在",
+    "pinyin": "cúnzài",
+    "partOfSpeech": "动词",
+    "translation": "to exist; existence",
+    "hskLevel": 4
+  },
+  {
+    "id": 106,
+    "word": "产生",
+    "pinyin": "chǎnshēng",
+    "partOfSpeech": "动词",
+    "translation": "to produce; to give rise to",
+    "hskLevel": 4
+  },
+  {
+    "id": 107,
+    "word": "获得",
+    "pinyin": "huòdé",
+    "partOfSpeech": "动词",
+    "translation": "to obtain; to gain; to acquire",
+    "hskLevel": 4
+  },
+  {
+    "id": 108,
+    "word": "坚持",
+    "pinyin": "jiānchí",
+    "partOfSpeech": "动词",
+    "translation": "to persist; to insist on",
+    "hskLevel": 4
+  },
+  {
+    "id": 109,
+    "word": "掌握",
+    "pinyin": "zhǎngwò",
+    "partOfSpeech": "动词",
+    "translation": "to grasp; to master",
+    "hskLevel": 4
+  },
+  {
+    "id": 110,
+    "word": "联系",
+    "pinyin": "liánxì",
+    "partOfSpeech": "动词",
+    "translation": "to contact; connection",
+    "hskLevel": 4
+  },
+  {
+    "id": 111,
+    "word": "考虑",
+    "pinyin": "kǎolǜ",
+    "partOfSpeech": "动词",
+    "translation": "to consider; to think over",
+    "hskLevel": 4
+  },
+  {
+    "id": 112,
+    "word": "估计",
+    "pinyin": "gūjì",
+    "partOfSpeech": "动词",
+    "translation": "to estimate; to reckon",
+    "hskLevel": 4
+  },
+  {
+    "id": 113,
+    "word": "满足",
+    "pinyin": "mǎnzú",
+    "partOfSpeech": "动词",
+    "translation": "to satisfy; satisfied",
+    "hskLevel": 4
+  },
+  {
+    "id": 114,
+    "word": "克服",
+    "pinyin": "kèfú",
+    "partOfSpeech": "动词",
+    "translation": "to overcome; to conquer",
+    "hskLevel": 4
+  },
+  {
+    "id": 115,
+    "word": "完善",
+    "pinyin": "wánshàn",
+    "partOfSpeech": "动词",
+    "translation": "to improve; to perfect",
+    "hskLevel": 4
+  },
+  {
+    "id": 116,
+    "word": "丰富",
+    "pinyin": "fēngfù",
+    "partOfSpeech": "动词",
+    "translation": "to enrich",
+    "hskLevel": 4
+  },
+  {
+    "id": 117,
+    "word": "稳定",
+    "pinyin": "wěndìng",
+    "partOfSpeech": "形容词",
+    "translation": "stable; steady",
+    "hskLevel": 4
+  },
+  {
+    "id": 118,
+    "word": "灵活",
+    "pinyin": "línghuó",
+    "partOfSpeech": "形容词",
+    "translation": "flexible; agile",
+    "hskLevel": 4
+  },
+  {
+    "id": 119,
+    "word": "平等",
+    "pinyin": "píngděng",
+    "partOfSpeech": "形容词",
+    "translation": "equal; equality",
+    "hskLevel": 4
+  },
+  {
+    "id": 120,
+    "word": "相互",
+    "pinyin": "xiānghù",
+    "partOfSpeech": "副词",
+    "translation": "mutually; each other",
+    "hskLevel": 4
+  }
+]

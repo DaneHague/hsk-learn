@@ -1,0 +1,27 @@
+[
+  {
+    "promptChinese": "请介绍你的家人。你家有几个人？他们叫什么名字？",
+    "promptEnglish": "Please introduce your family. How many people are in your family? What are their names?",
+    "topic": "Family"
+  },
+  {
+    "promptChinese": "你喜欢吃什么？你不喜欢吃什么？",
+    "promptEnglish": "What do you like to eat? What do you not like to eat?",
+    "topic": "Food"
+  },
+  {
+    "promptChinese": "你的朋友叫什么名字？他是哪国人？",
+    "promptEnglish": "What is your friend's name? What country is he from?",
+    "topic": "Friends"
+  },
+  {
+    "promptChinese": "你今天做了什么？你去了哪里？",
+    "promptEnglish": "What did you do today? Where did you go?",
+    "topic": "Daily life"
+  },
+  {
+    "promptChinese": "你的学校在哪里？你喜欢你的学校吗？",
+    "promptEnglish": "Where is your school? Do you like your school?",
+    "topic": "School"
+  }
+]

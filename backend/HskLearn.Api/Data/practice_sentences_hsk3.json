@@ -1,0 +1,52 @@
+[
+  {
+    "sentence": "虽然很累，但是我很开心。",
+    "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
+    "translation": "Although I am tired, I am very happy."
+  },
+  {
+    "sentence": "因为下雨了，所以我没去。",
+    "pinyin": "Yīnwèi xiàyǔ le, suǒyǐ wǒ méi qù.",
+    "translation": "Because it rained, I didn't go."
+  },
+  {
+    "sentence": "如果明天天气好，我们就去爬山。",
+    "pinyin": "Rúguǒ míngtiān tiānqì hǎo, wǒmen jiù qù páshān.",
+    "translation": "If the weather is good tomorrow, we will go hiking."
+  },
+  {
+    "sentence": "除了中文以外，她还会说法语。",
+    "pinyin": "Chúle Zhōngwén yǐwài, tā hái huì shuō Fǎyǔ.",
+    "translation": "Besides Chinese, she can also speak French."
+  },
+  {
+    "sentence": "这个城市的环境越来越好了。",
+    "pinyin": "Zhège chéngshì de huánjìng yuè lái yuè hǎo le.",
+    "translation": "The environment of this city is getting better and better."
+  },
+  {
+    "sentence": "我对中国文化很感兴趣。",
+    "pinyin": "Wǒ duì Zhōngguó wénhuà hěn gǎn xìngqù.",
+    "translation": "I am very interested in Chinese culture."
+  },
+  {
+    "sentence": "他一边听音乐，一边做作业。",
+    "pinyin": "Tā yībiān tīng yīnyuè, yībiān zuò zuòyè.",
+    "translation": "He listens to music while doing homework."
+  },
+  {
+    "sentence": "这个问题比我想的更难。",
+    "pinyin": "Zhège wèntí bǐ wǒ xiǎng de gèng nán.",
+    "translation": "This problem is harder than I thought."
+  },
+  {
+    "sentence": "只要你努力学习，就一定能考好。",
+    "pinyin": "Zhǐyào nǐ nǔlì xuéxí, jiù yīdìng néng kǎo hǎo.",
+    "translation": "As long as you study hard, you will definitely do well on the exam."
+  },
+  {
+    "sentence": "听说那家饭馆的菜又好吃又便宜。",
+    "pinyin": "Tīngshuō nà jiā fànguǎn de cài yòu hǎochī yòu piányí.",
+    "translation": "I heard that restaurant's food is both delicious and cheap."
+  }
+]

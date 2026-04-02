@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "topic": "自我介绍",
+    "title": "我叫小明",
+    "titlePinyin": "Wǒ jiào Xiǎomíng",
+    "passage": "你好！我叫小明。我是中国人。我今年二十岁。我是学生。我在北京大学学习。我喜欢看书。",
+    "passagePinyin": "Nǐ hǎo! Wǒ jiào Xiǎomíng. Wǒ shì Zhōngguó rén. Wǒ jīnnián èrshí suì. Wǒ shì xuéshēng. Wǒ zài Běijīng Dàxué xuéxí. Wǒ xǐhuan kàn shū.",
+    "targetWords": ["叫", "中国", "学生", "学习", "喜欢"],
+    "questions": [
+      {
+        "question": "小明是哪国人？",
+        "options": ["美国人", "中国人", "日本人", "英国人"],
+        "correctIndex": 1,
+        "explanation": "文章说“我是中国人”。"
+      },
+      {
+        "question": "小明今年多大？",
+        "options": ["十八岁", "十九岁", "二十岁", "二十一岁"],
+        "correctIndex": 2,
+        "explanation": "文章说“我今年二十岁”。"
+      },
+      {
+        "question": "小明喜欢做什么？",
+        "options": ["看电影", "看书", "打球", "唱歌"],
+        "correctIndex": 1,
+        "explanation": "文章说“我喜欢看书”。"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "家庭",
+    "title": "我的家",
+    "titlePinyin": "Wǒ de jiā",
+    "passage": "我家有四个人。爸爸、妈妈、姐姐和我。爸爸是医生，他在医院工作。妈妈是老师，她很喜欢做饭。姐姐在上海工作。我们都很好。",
+    "passagePinyin": "Wǒ jiā yǒu sì gè rén. Bàba, māma, jiějie hé wǒ. Bàba shì yīshēng, tā zài yīyuàn gōngzuò. Māma shì lǎoshī, tā hěn xǐhuan zuò fàn. Jiějie zài Shànghǎi gōngzuò. Wǒmen dōu hěn hǎo.",
+    "targetWords": ["家", "医生", "工作", "老师", "做饭"],
+    "questions": [
+      {
+        "question": "他家有几个人？",
+        "options": ["三个人", "四个人", "五个人", "六个人"],
+        "correctIndex": 1,
+        "explanation": "文章说“我家有四个人”。"
+      },
+      {
+        "question": "爸爸做什么工作？",
+        "options": ["老师", "医生", "学生", "厨师"],
+        "correctIndex": 1,
+        "explanation": "文章说“爸爸是医生”。"
+      },
+      {
+        "question": "姐姐在哪里工作？",
+        "options": ["北京", "上海", "广州", "深圳"],
+        "correctIndex": 1,
+        "explanation": "文章说“姐姐在上海工作”。"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "日常生活",
+    "title": "我的一天",
+    "titlePinyin": "Wǒ de yì tiān",
+    "passage": "我每天早上六点起床。七点吃早饭。八点去学校。我上午有课，下午看书。晚上我和朋友吃饭。十点睡觉。",
+    "passagePinyin": "Wǒ měi tiān zǎoshang liù diǎn qǐchuáng. Qī diǎn chī zǎofàn. Bā diǎn qù xuéxiào. Wǒ shàngwǔ yǒu kè, xiàwǔ kàn shū. Wǎnshang wǒ hé péngyou chī fàn. Shí diǎn shuìjiào.",
+    "targetWords": ["起床", "学校", "朋友", "睡觉", "每天"],
+    "questions": [
+      {
+        "question": "他早上几点起床？",
+        "options": ["五点", "六点", "七点", "八点"],
+        "correctIndex": 1,
+        "explanation": "文章说“每天早上六点起床”。"
+      },
+      {
+        "question": "他下午做什么？",
+        "options": ["上课", "看书", "吃饭", "睡觉"],
+        "correctIndex": 1,
+        "explanation": "文章说“下午看书”。"
+      },
+      {
+        "question": "他晚上和谁吃饭？",
+        "options": ["爸爸", "妈妈", "同学", "朋友"],
+        "correctIndex": 3,
+        "explanation": "文章说“晚上我和朋友吃饭”。"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "吃饭",
+    "title": "我喜欢吃什么",
+    "titlePinyin": "Wǒ xǐhuan chī shénme",
+    "passage": "我很喜欢吃中国菜。我最喜欢吃米饭和鸡肉。我不喜欢吃鱼。我每天喝水和茶。我不喝咖啡。今天中午我在饭馆吃饭。菜很好吃。",
+    "passagePinyin": "Wǒ hěn xǐhuan chī Zhōngguó cài. Wǒ zuì xǐhuan chī mǐfàn hé jīròu. Wǒ bù xǐhuan chī yú. Wǒ měi tiān hē shuǐ hé chá. Wǒ bù hē kāfēi. Jīntiān zhōngwǔ wǒ zài fànguǎn chī fàn. Cài hěn hǎochī.",
+    "targetWords": ["喜欢", "吃", "喝", "水", "中午"],
+    "questions": [
+      {
+        "question": "他最喜欢吃什么？",
+        "options": ["鱼和菜", "米饭和鸡肉", "面条", "水果"],
+        "correctIndex": 1,
+        "explanation": "文章说“我最喜欢吃米饭和鸡肉”。"
+      },
+      {
+        "question": "他不喜欢吃什么？",
+        "options": ["鸡肉", "米饭", "鱼", "菜"],
+        "correctIndex": 2,
+        "explanation": "文章说“我不喜欢吃鱼”。"
+      },
+      {
+        "question": "他今天中午在哪里吃饭？",
+        "options": ["在家", "在学校", "在饭馆", "在朋友家"],
+        "correctIndex": 2,
+        "explanation": "文章说“今天中午我在饭馆吃饭”。"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "天气",
+    "title": "今天天气很好",
+    "titlePinyin": "Jīntiān tiānqì hěn hǎo",
+    "passage": "今天天气很好。很热。我和朋友去商店买东西。商店很大。我买了一些水果。苹果三块钱一个。我买了五个苹果。朋友买了一本书。",
+    "passagePinyin": "Jīntiān tiānqì hěn hǎo. Hěn rè. Wǒ hé péngyou qù shāngdiàn mǎi dōngxi. Shāngdiàn hěn dà. Wǒ mǎi le yìxiē shuǐguǒ. Píngguǒ sān kuài qián yí gè. Wǒ mǎi le wǔ gè píngguǒ. Péngyou mǎi le yì běn shū.",
+    "targetWords": ["天气", "热", "商店", "买", "钱"],
+    "questions": [
+      {
+        "question": "今天天气怎么样？",
+        "options": ["很冷", "下雨", "很热", "很冷"],
+        "correctIndex": 2,
+        "explanation": "文章说“今天天气很好。很热”。"
+      },
+      {
+        "question": "苹果多少钱一个？",
+        "options": ["一块钱", "两块钱", "三块钱", "五块钱"],
+        "correctIndex": 2,
+        "explanation": "文章说“苹果三块钱一个”。"
+      },
+      {
+        "question": "朋友买了什么？",
+        "options": ["水果", "衣服", "一本书", "水"],
+        "correctIndex": 2,
+        "explanation": "文章说“朋友买了一本书”。"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "交通",
+    "title": "坐出租车",
+    "titlePinyin": "Zuò chūzūchē",
+    "passage": "今天我坐出租车去医院。出租车很快。我家到医院不太远。我妈妈在医院工作。我去看妈妈。妈妈很高兴。下午我坐公共汽车回家。",
+    "passagePinyin": "Jīntiān wǒ zuò chūzūchē qù yīyuàn. Chūzūchē hěn kuài. Wǒ jiā dào yīyuàn bú tài yuǎn. Wǒ māma zài yīyuàn gōngzuò. Wǒ qù kàn māma. Māma hěn gāoxìng. Xiàwǔ wǒ zuò gōnggòng qìchē huí jiā.",
+    "targetWords": ["坐", "出租车", "医院", "高兴", "回"],
+    "questions": [
+      {
+        "question": "他怎么去医院？",
+        "options": ["坐公共汽车", "坐出租车", "走路", "开车"],
+        "correctIndex": 1,
+        "explanation": "文章说“今天我坐出租车去医院”。"
+      },
+      {
+        "question": "妈妈在哪里工作？",
+        "options": ["学校", "商店", "医院", "饭馆"],
+        "correctIndex": 2,
+        "explanation": "文章说“我妈妈在医院工作”。"
+      },
+      {
+        "question": "他下午怎么回家？",
+        "options": ["坐出租车", "走路", "坐公共汽车", "坐火车"],
+        "correctIndex": 2,
+        "explanation": "文章说“下午我坐公共汽车回家”。"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "爱好",
+    "title": "我的爱好",
+    "titlePinyin": "Wǒ de àihào",
+    "passage": "我有很多爱好。我喜欢看电影，也喜欢听音乐。星期六我在家看电视。星期天我和朋友打球。我不会游泳，但是我想学。我朋友会游泳，他说他可以教我。",
+    "passagePinyin": "Wǒ yǒu hěn duō àihào. Wǒ xǐhuan kàn diànyǐng, yě xǐhuan tīng yīnyuè. Xīngqīliù wǒ zài jiā kàn diànshì. Xīngqītiān wǒ hé péngyou dǎ qiú. Wǒ bú huì yóuyǒng, dànshì wǒ xiǎng xué. Wǒ péngyou huì yóuyǒng, tā shuō tā kěyǐ jiāo wǒ.",
+    "targetWords": ["电影", "音乐", "电视", "会", "想"],
+    "questions": [
+      {
+        "question": "他星期六做什么？",
+        "options": ["打球", "看电影", "在家看电视", "游泳"],
+        "correctIndex": 2,
+        "explanation": "文章说“星期六我在家看电视”。"
+      },
+      {
+        "question": "他会游泳吗？",
+        "options": ["会", "不会", "以前会", "学了一点"],
+        "correctIndex": 1,
+        "explanation": "文章说“我不会游泳”。"
+      },
+      {
+        "question": "谁可以教他游泳？",
+        "options": ["老师", "爸爸", "姐姐", "朋友"],
+        "correctIndex": 3,
+        "explanation": "文章说“我朋友会游泳，他说他可以教我”。"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "学习",
+    "title": "学中文",
+    "titlePinyin": "Xué Zhōngwén",
+    "passage": "我是美国人。我在学中文。中文很难，但是很有意思。我的老师是中国人，她说得很慢，我能听懂。我每天写汉字。我会写一百个汉字了。我的同学是日本人，他也在学中文。",
+    "passagePinyin": "Wǒ shì Měiguó rén. Wǒ zài xué Zhōngwén. Zhōngwén hěn nán, dànshì hěn yǒu yìsi. Wǒ de lǎoshī shì Zhōngguó rén, tā shuō de hěn màn, wǒ néng tīng dǒng. Wǒ měi tiān xiě Hànzì. Wǒ huì xiě yì bǎi gè Hànzì le. Wǒ de tóngxué shì Rìběn rén, tā yě zài xué Zhōngwén.",
+    "targetWords": ["中文", "难", "汉字", "写", "同学"],
+    "questions": [
+      {
+        "question": "他觉得中文怎么样？",
+        "options": ["很容易", "很难但有意思", "没意思", "太简单"],
+        "correctIndex": 1,
+        "explanation": "文章说“中文很难，但是很有意思”。"
+      },
+      {
+        "question": "他会写多少个汉字？",
+        "options": ["五十个", "一百个", "两百个", "三百个"],
+        "correctIndex": 1,
+        "explanation": "文章说“我会写一百个汉字了”。"
+      },
+      {
+        "question": "他的同学是哪国人？",
+        "options": ["中国人", "美国人", "日本人", "韩国人"],
+        "correctIndex": 2,
+        "explanation": "文章说“我的同学是日本人”。"
+      }
+    ]
+  }
+]

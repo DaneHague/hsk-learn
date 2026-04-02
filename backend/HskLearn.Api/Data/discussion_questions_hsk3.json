@@ -1,0 +1,32 @@
+[
+  {
+    "questionChinese": "你觉得运动重要吗？为什么？",
+    "questionPinyin": "Nǐ juéde yùndòng zhòngyào ma? Wèi shénme?",
+    "questionEnglish": "Do you think exercise is important? Why?",
+    "topic": "health"
+  },
+  {
+    "questionChinese": "你最好的朋友是什么样的人？",
+    "questionPinyin": "Nǐ zuì hǎo de péngyǒu shì shénme yàng de rén?",
+    "questionEnglish": "What kind of person is your best friend?",
+    "topic": "friendship"
+  },
+  {
+    "questionChinese": "如果你有一个星期的假期，你想去哪里旅游？",
+    "questionPinyin": "Rúguǒ nǐ yǒu yí gè xīngqī de jiàqī, nǐ xiǎng qù nǎlǐ lǚyóu?",
+    "questionEnglish": "If you had a week off, where would you like to travel?",
+    "topic": "travel"
+  },
+  {
+    "questionChinese": "你觉得学习外语最难的是什么？",
+    "questionPinyin": "Nǐ juéde xuéxí wàiyǔ zuì nán de shì shénme?",
+    "questionEnglish": "What do you think is the hardest part of learning a foreign language?",
+    "topic": "language learning"
+  },
+  {
+    "questionChinese": "你小时候的梦想是什么？现在变了吗？",
+    "questionPinyin": "Nǐ xiǎo shíhòu de mèngxiǎng shì shénme? Xiànzài biàn le ma?",
+    "questionEnglish": "What was your childhood dream? Has it changed?",
+    "topic": "dreams and goals"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "promptChinese": "请描述你最喜欢的一个季节，并说明为什么喜欢它。",
+    "promptEnglish": "Describe your favourite season and explain why you like it.",
+    "topic": "日常生活"
+  },
+  {
+    "promptChinese": "你认为网上购物和去商店购物，哪种方式更好？为什么？",
+    "promptEnglish": "Which do you think is better — online shopping or shopping in stores? Why?",
+    "topic": "日常生活"
+  },
+  {
+    "promptChinese": "介绍一下你的家乡，它有什么特别的地方？",
+    "promptEnglish": "Introduce your hometown. What makes it special?",
+    "topic": "社会"
+  },
+  {
+    "promptChinese": "你觉得学习外语最重要的方法是什么？",
+    "promptEnglish": "What do you think is the most important method for learning a foreign language?",
+    "topic": "教育"
+  },
+  {
+    "promptChinese": "描述一次让你印象深刻的旅行经历。",
+    "promptEnglish": "Describe a travel experience that left a deep impression on you.",
+    "topic": "日常生活"
+  },
+  {
+    "promptChinese": "你觉得手机对我们的生活有什么影响？",
+    "promptEnglish": "What impact do you think mobile phones have on our lives?",
+    "topic": "科技"
+  },
+  {
+    "promptChinese": "保护环境，我们每个人可以做些什么？",
+    "promptEnglish": "What can each of us do to protect the environment?",
+    "topic": "自然环境"
+  },
+  {
+    "promptChinese": "请描述你理想中的工作是什么样的。",
+    "promptEnglish": "Describe what your ideal job would be like.",
+    "topic": "工作"
+  },
+  {
+    "promptChinese": "你最喜欢的一本书或一部电影是什么？为什么？",
+    "promptEnglish": "What is your favourite book or movie? Why?",
+    "topic": "文化"
+  },
+  {
+    "promptChinese": "你觉得健康的生活方式应该是什么样的？",
+    "promptEnglish": "What do you think a healthy lifestyle should look like?",
+    "topic": "日常生活"
+  }
+]

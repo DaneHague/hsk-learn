@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "topic": "日常生活",
+    "title": "网上购物",
+    "titlePinyin": "Wǎngshàng gòuwù",
+    "passage": "现在越来越多的人喜欢在网上购物。网上购物不但方便，而且价格往往比商店便宜。你可以随时比较不同商家的产品，选择最合适的。不过，网上购物也有一些缺点。比如，你看不到真正的商品，有时候收到的东西跟图片不一样。所以，购物之前最好先看看其他人的评价，这样可以减少买到不满意商品的风险。",
+    "passagePinyin": "Xiànzài yuè lái yuè duō de rén xǐhuan zài wǎngshàng gòuwù. Wǎngshàng gòuwù bùdàn fāngbiàn, érqiě jiàgé wǎngwǎng bǐ shāngdiàn piányi. Nǐ kěyǐ suíshí bǐjiào bùtóng shāngjiā de chǎnpǐn, xuǎnzé zuì héshì de. Búguò, wǎngshàng gòuwù yě yǒu yìxiē quēdiǎn. Bǐrú, nǐ kàn bú dào zhēnzhèng de shāngpǐn, yǒu shíhou shōu dào de dōngxi gēn túpiàn bù yíyàng. Suǒyǐ, gòuwù zhīqián zuìhǎo xiān kàn kan qítā rén de píngjià, zhèyàng kěyǐ jiǎnshǎo mǎi dào bù mǎnyì shāngpǐn de fēngxiǎn.",
+    "targetWords": ["往往", "比较", "缺点", "减少", "合适"],
+    "questions": [
+      {
+        "question": "根据文章，网上购物最大的优点是什么？",
+        "options": ["商品质量好", "方便又便宜", "可以试穿衣服", "送货速度快"],
+        "correctIndex": 1,
+        "explanation": "文章说网上购物“不但方便，而且价格往往比商店便宜”。"
+      },
+      {
+        "question": "网上购物的缺点是什么？",
+        "options": ["价格太贵", "选择太少", "看不到真正的商品", "必须用信用卡"],
+        "correctIndex": 2,
+        "explanation": "文章提到“你看不到真正的商品，有时候收到的东西跟图片不一样”。"
+      },
+      {
+        "question": "作者建议购物前应该怎么做？",
+        "options": ["去实体店看看", "看其他人的评价", "问朋友的意见", "等打折的时候再买"],
+        "correctIndex": 1,
+        "explanation": "文章建议“购物之前最好先看看其他人的评价”。"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "教育",
+    "title": "学习外语的方法",
+    "titlePinyin": "Xuéxí wàiyǔ de fāngfǎ",
+    "passage": "很多人觉得学外语很难，其实只要找到合适的方法，学习效率就能大大提高。首先，每天坚持学习比一周集中学一次更有效。其次，不要只背单词，应该多听多说，在实际交流中积累经验。此外，看外语电影或者听外语歌曲也是很好的方法。最重要的是保持积极的态度，不要害怕犯错。语言学习是一个逐渐进步的过程，需要耐心和不断的努力。",
+    "passagePinyin": "Hěn duō rén juéde xué wàiyǔ hěn nán, qíshí zhǐyào zhǎo dào héshì de fāngfǎ, xuéxí xiàolǜ jiù néng dàdà tígāo. Shǒuxiān, měi tiān jiānchí xuéxí bǐ yì zhōu jízhōng xué yí cì gèng yǒuxiào. Qícì, bú yào zhǐ bèi dāncí, yīnggāi duō tīng duō shuō, zài shíjì jiāoliú zhōng jīlěi jīngyàn. Cǐwài, kàn wàiyǔ diànyǐng huòzhě tīng wàiyǔ gēqǔ yě shì hěn hǎo de fāngfǎ. Zuì zhòngyào de shì bǎochí jījí de tàidu, bú yào hàipà fàn cuò. Yǔyán xuéxí shì yí gè zhújiàn jìnbù de guòchéng, xūyào nàixīn hé bùduàn de nǔlì.",
+    "targetWords": ["效率", "提高", "交流", "积累", "逐渐"],
+    "questions": [
+      {
+        "question": "作者认为怎样学习外语最有效？",
+        "options": ["一周集中学一次", "每天坚持学习", "只背单词", "只看电影"],
+        "correctIndex": 1,
+        "explanation": "文章说“每天坚持学习比一周集中学一次更有效”。"
+      },
+      {
+        "question": "作者建议用什么态度学习语言？",
+        "options": ["严肃认真的态度", "积极的态度", "谦虚的态度", "紧张的态度"],
+        "correctIndex": 1,
+        "explanation": "文章说“最重要的是保持积极的态度，不要害怕犯错”。"
+      },
+      {
+        "question": "下面哪个不是文章提到的学习方法？",
+        "options": ["多听多说", "看外语电影", "出国留学", "听外语歌曲"],
+        "correctIndex": 2,
+        "explanation": "文章提到了多听多说、看电影和听歌曲，但没有提到出国留学。"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "工作",
+    "title": "找工作的经验",
+    "titlePinyin": "Zhǎo gōngzuò de jīngyàn",
+    "passage": "去年大学毕业以后，我花了三个月才找到满意的工作。刚开始的时候，我投了很多简历，但是很少收到面试的机会。后来一个朋友建议我，除了专业知识以外，还应该在简历里展示自己的实际能力和项目经验。我按照他的建议修改了简历，果然面试机会增加了不少。面试的时候，最重要的是表达清楚自己的优点，同时也要了解公司的文化和发展方向。经过几次面试，我终于找到了一份适合自己的工作。",
+    "passagePinyin": "Qùnián dàxué bìyè yǐhòu, wǒ huā le sān gè yuè cái zhǎo dào mǎnyì de gōngzuò. Gāng kāishǐ de shíhou, wǒ tóu le hěn duō jiǎnlì, dànshì hěn shǎo shōu dào miànshì de jīhuì. Hòulái yí gè péngyou jiànyì wǒ, chúle zhuānyè zhīshi yǐwài, hái yīnggāi zài jiǎnlì lǐ zhǎnshì zìjǐ de shíjì nénglì hé xiàngmù jīngyàn. Wǒ ànzhào tā de jiànyì xiūgǎi le jiǎnlì, guǒrán miànshì jīhuì zēngjiā le bù shǎo. Miànshì de shíhou, zuì zhòngyào de shì biǎodá qīngchu zìjǐ de yōudiǎn, tóngshí yě yào liǎojiě gōngsī de wénhuà hé fāzhǎn fāngxiàng. Jīngguò jǐ cì miànshì, wǒ zhōngyú zhǎo dào le yì fèn shìhé zìjǐ de gōngzuò.",
+    "targetWords": ["建议", "知识", "能力", "增加", "表达"],
+    "questions": [
+      {
+        "question": "作者刚开始找工作时遇到了什么问题？",
+        "options": ["工资太低", "很少收到面试机会", "公司太远", "专业不对口"],
+        "correctIndex": 1,
+        "explanation": "文章说“投了很多简历，但是很少收到面试的机会”。"
+      },
+      {
+        "question": "朋友建议作者在简历里加什么内容？",
+        "options": ["个人爱好", "实际能力和项目经验", "家庭背景", "考试成绩"],
+        "correctIndex": 1,
+        "explanation": "朋友建议“在简历里展示自己的实际能力和项目经验”。"
+      },
+      {
+        "question": "作者花了多长时间找到工作？",
+        "options": ["一个月", "两个月", "三个月", "半年"],
+        "correctIndex": 2,
+        "explanation": "文章开头说“花了三个月才找到满意的工作”。"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "自然环境",
+    "title": "环境保护",
+    "titlePinyin": "Huánjìng bǎohù",
+    "passage": "近年来，环境污染已经成为一个严重的社会问题。空气质量下降、水源被污染、垃圾越来越多，这些问题影响着每个人的健康和生活。保护环境不只是政府的责任，也是每个人的义务。我们可以从日常生活中的小事做起，比如减少使用塑料袋、节约用水用电、选择公共交通出行。此外，垃圾分类也是一种有效的环保方式。只要每个人都积极参加环保活动，我们的环境就能逐渐改善。",
+    "passagePinyin": "Jìn niánlái, huánjìng wūrǎn yǐjīng chéngwéi yí gè yánzhòng de shèhuì wèntí. Kōngqì zhìliàng xiàjiàng, shuǐyuán bèi wūrǎn, lājī yuè lái yuè duō, zhèxiē wèntí yǐngxiǎng zhe měi gè rén de jiànkāng hé shēnghuó. Bǎohù huánjìng bù zhǐ shì zhèngfǔ de zérèn, yě shì měi gè rén de yìwù. Wǒmen kěyǐ cóng rìcháng shēnghuó zhōng de xiǎo shì zuò qǐ, bǐrú jiǎnshǎo shǐyòng sùliào dài, jiéyuē yòng shuǐ yòng diàn, xuǎnzé gōnggòng jiāotōng chūxíng. Cǐwài, lājī fēnlèi yě shì yì zhǒng yǒuxiào de huánbǎo fāngshì. Zhǐyào měi gè rén dōu jījí cānjiā huánbǎo huódòng, wǒmen de huánjìng jiù néng zhújiàn gǎishàn.",
+    "targetWords": ["环境", "严重", "影响", "责任", "参加"],
+    "questions": [
+      {
+        "question": "文章认为环境保护是谁的责任？",
+        "options": ["只是政府的责任", "只是工厂的责任", "每个人的责任", "只是科学家的责任"],
+        "correctIndex": 2,
+        "explanation": "文章说“保护环境不只是政府的责任，也是每个人的义务”。"
+      },
+      {
+        "question": "下面哪个不是文章提到的环保做法？",
+        "options": ["减少使用塑料袋", "节约用水用电", "种更多的树", "垃圾分类"],
+        "correctIndex": 2,
+        "explanation": "文章提到了减少塑料袋、节约水电和垃圾分类，但没有提到种树。"
+      },
+      {
+        "question": "“逐渐改善“是什么意思？",
+        "options": ["马上变好", "慢慢变好", "完全解决", "没有变化"],
+        "correctIndex": 1,
+        "explanation": "“逐渐”表示慢慢地、一步一步地，“改善”是变好的意思。"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "科技",
+    "title": "手机改变生活",
+    "titlePinyin": "Shǒujī gǎibiàn shēnghuó",
+    "passage": "智能手机的发展深刻地改变了人们的生活方式。现在，人们用手机支付、叫外卖、打车、看新闻，几乎所有事情都可以通过手机完成。手机让我们的生活更加方便和高效，但也产生了一些新问题。很多人整天盯着手机屏幕，减少了和家人朋友面对面交流的时间。尤其是青少年，过度使用手机可能影响学习和视力。因此，我们应该合理安排使用手机的时间，不要让技术控制我们的生活。",
+    "passagePinyin": "Zhìnéng shǒujī de fāzhǎn shēnkè de gǎibiàn le rénmen de shēnghuó fāngshì. Xiànzài, rénmen yòng shǒujī zhīfù, jiào wàimài, dǎ chē, kàn xīnwén, jīhū suǒyǒu shìqíng dōu kěyǐ tōngguò shǒujī wánchéng. Shǒujī ràng wǒmen de shēnghuó gèngjiā fāngbiàn hé gāoxiào, dàn yě chǎnshēng le yìxiē xīn wèntí. Hěn duō rén zhěng tiān dīng zhe shǒujī píngmù, jiǎnshǎo le hé jiārén péngyou miàn duì miàn jiāoliú de shíjiān. Yóuqí shì qīngshàonián, guòdù shǐyòng shǒujī kěnéng yǐngxiǎng xuéxí hé shìlì. Yīncǐ, wǒmen yīnggāi hélǐ ānpái shǐyòng shǒujī de shíjiān, bú yào ràng jìshù kòngzhì wǒmen de shēnghuó.",
+    "targetWords": ["发展", "改变", "几乎", "尤其", "合理"],
+    "questions": [
+      {
+        "question": "文章提到手机可以用来做什么？",
+        "options": ["做饭和打扫", "支付和叫外卖", "锻炼身体", "修理东西"],
+        "correctIndex": 1,
+        "explanation": "文章说“人们用手机支付、叫外卖、打车、看新闻”。"
+      },
+      {
+        "question": "手机使用带来的问题是什么？",
+        "options": ["手机太贵了", "面对面交流时间减少", "网络太慢", "没有信号"],
+        "correctIndex": 1,
+        "explanation": "文章说“减少了和家人朋友面对面交流的时间”。"
+      },
+      {
+        "question": "作者对使用手机的建议是什么？",
+        "options": ["不要用手机", "合理安排使用时间", "只用来打电话", "每天只用一小时"],
+        "correctIndex": 1,
+        "explanation": "作者说“应该合理安排使用手机的时间”。"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "社会",
+    "title": "城市与农村",
+    "titlePinyin": "Chéngshì yǔ nóngcūn",
+    "passage": "中国的城市化发展很快，越来越多的年轻人离开农村到城市工作和生活。城市有更多的就业机会和更好的教育资源，这是吸引年轻人的主要原因。然而，城市生活也面临着压力大、房价高、竞争激烈等问题。相比之下，农村的生活节奏慢，环境好，但是工作机会和公共服务相对较少。近年来，政府在不断改善农村的基础设施和公共服务，希望缩小城市和农村之间的差距，让更多人愿意留在家乡发展。",
+    "passagePinyin": "Zhōngguó de chéngshìhuà fāzhǎn hěn kuài, yuè lái yuè duō de niánqīngrén líkāi nóngcūn dào chéngshì gōngzuò hé shēnghuó. Chéngshì yǒu gèng duō de jiùyè jīhuì hé gèng hǎo de jiàoyù zīyuán, zhè shì xīyǐn niánqīngrén de zhǔyào yuányīn. Rán'ér, chéngshì shēnghuó yě miànlín zhe yālì dà, fángjià gāo, jìngzhēng jīliè děng wèntí. Xiāngbǐ zhī xià, nóngcūn de shēnghuó jiézòu màn, huánjìng hǎo, dànshì gōngzuò jīhuì hé gōnggòng fúwù xiāngduì jiào shǎo. Jìn niánlái, zhèngfǔ zài bùduàn gǎishàn nóngcūn de jīchǔ shèshī hé gōnggòng fúwù, xīwàng suōxiǎo chéngshì hé nóngcūn zhījiān de chājù, ràng gèng duō rén yuànyì liú zài jiāxiāng fāzhǎn.",
+    "targetWords": ["机会", "教育", "压力", "竞争", "基础"],
+    "questions": [
+      {
+        "question": "年轻人去城市的主要原因是什么？",
+        "options": ["城市空气好", "更多就业机会和教育资源", "城市房价低", "城市人少"],
+        "correctIndex": 1,
+        "explanation": "文章说城市有“更多的就业机会和更好的教育资源”。"
+      },
+      {
+        "question": "农村生活的优点是什么？",
+        "options": ["工资高", "工作机会多", "生活节奏慢，环境好", "交通方便"],
+        "correctIndex": 2,
+        "explanation": "文章说“农村的生活节奏慢，环境好”。"
+      },
+      {
+        "question": "政府正在做什么来帮助农村？",
+        "options": ["关闭城市工厂", "改善基础设施和公共服务", "不让人去城市", "降低城市工资"],
+        "correctIndex": 1,
+        "explanation": "文章说政府在“不断改善农村的基础设施和公共服务”。"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "文化传统",
+    "title": "中国的茶文化",
+    "titlePinyin": "Zhōngguó de chá wénhuà",
+    "passage": "中国是茶的故乡，喝茶的传统已经有几千年的历史了。中国茶的种类非常丰富，最常见的有绿茶、红茶、乌龙茶和普洱茶。每种茶都有不同的味道和功效。在中国文化中，喝茶不仅仅是为了解渴，更是一种社交方式和生活态度。朋友见面的时候，大家常常坐下来一起喝茶聊天。茶道也是中国传统文化的重要组成部分，通过泡茶和品茶的过程，人们可以放松心情，享受生活中的宁静时刻。",
+    "passagePinyin": "Zhōngguó shì chá de gùxiāng, hē chá de chuántǒng yǐjīng yǒu jǐ qiān nián de lìshǐ le. Zhōngguó chá de zhǒnglèi fēicháng fēngfù, zuì chángjiàn de yǒu lǜchá, hóngchá, wūlóngchá hé pǔěrchá. Měi zhǒng chá dōu yǒu bùtóng de wèidao hé gōngxiào. Zài Zhōngguó wénhuà zhōng, hē chá bù jǐnjǐn shì wèile jiě kě, gèng shì yì zhǒng shèjiāo fāngshì hé shēnghuó tàidu. Péngyou jiànmiàn de shíhou, dàjiā chángcháng zuò xiàlái yìqǐ hē chá liáotiān. Chádào yě shì Zhōngguó chuántǒng wénhuà de zhòngyào zǔchéng bùfen, tōngguò pào chá hé pǐn chá de guòchéng, rénmen kěyǐ fàngsōng xīnqíng, xiǎngshòu shēnghuó zhōng de níngjìng shíkè.",
+    "targetWords": ["传统", "丰富", "文化", "态度", "通过"],
+    "questions": [
+      {
+        "question": "中国最常见的茶有哪些？",
+        "options": ["咖啡和奶茶", "绿茶、红茶、乌龙茶和普洱茶", "果汁和可乐", "只有绿茶"],
+        "correctIndex": 1,
+        "explanation": "文章说“最常见的有绿茶、红茶、乌龙茶和普洱茶”。"
+      },
+      {
+        "question": "在中国文化中，喝茶有什么意义？",
+        "options": ["只是为了解渴", "是一种社交方式和生活态度", "是为了减肥", "是一种运动"],
+        "correctIndex": 1,
+        "explanation": "文章说喝茶“不仅仅是为了解渴，更是一种社交方式和生活态度”。"
+      },
+      {
+        "question": "茶道可以帮助人们做什么？",
+        "options": ["赚更多的钱", "学习历史知识", "放松心情", "交到新朋友"],
+        "correctIndex": 2,
+        "explanation": "文章说通过茶道“人们可以放松心情，享受生活中的宁静时刻”。"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "教育",
+    "title": "在线教育的发展",
+    "titlePinyin": "Zàixiàn jiàoyù de fāzhǎn",
+    "passage": "随着互联网技术的发展，在线教育变得越来越普遍。学生可以在家里通过电脑或手机上课，不受时间和地点的限制。在线教育的优点很明显：课程种类丰富，学习时间灵活，而且很多课程的价格比传统课堂便宜。不过，在线教育也存在一些挑战。有些学生在家学习的时候容易分心，缺少和老师同学面对面互动的机会。因此，在线教育要想取得好的效果，学生需要有很强的自律能力和独立学习的习惯。",
+    "passagePinyin": "Suízhe hùliánwǎng jìshù de fāzhǎn, zàixiàn jiàoyù biàn de yuè lái yuè pǔbiàn. Xuéshēng kěyǐ zài jiā lǐ tōngguò diànnǎo huò shǒujī shàng kè, bù shòu shíjiān hé dìdiǎn de xiànzhì. Zàixiàn jiàoyù de yōudiǎn hěn míngxiǎn: kèchéng zhǒnglèi fēngfù, xuéxí shíjiān línghuó, érqiě hěn duō kèchéng de jiàgé bǐ chuántǒng kètáng piányi. Búguò, zàixiàn jiàoyù yě cúnzài yìxiē tiǎozhàn. Yǒuxiē xuéshēng zài jiā xuéxí de shíhou róngyì fēnxīn, quēshǎo hé lǎoshī tóngxué miàn duì miàn hùdòng de jīhuì. Yīncǐ, zàixiàn jiàoyù yào xiǎng qǔdé hǎo de xiàoguǒ, xuéshēng xūyào yǒu hěn qiáng de zìlǜ nénglì hé dúlì xuéxí de xíguàn.",
+    "targetWords": ["技术", "普遍", "明显", "存在", "独立"],
+    "questions": [
+      {
+        "question": "在线教育的优点不包括下面哪一项？",
+        "options": ["课程种类丰富", "学习时间灵活", "可以和同学互动", "价格比较便宜"],
+        "correctIndex": 2,
+        "explanation": "和同学互动恰恰是在线教育缺少的，文章说学生“缺少和老师同学面对面互动的机会”。"
+      },
+      {
+        "question": "在线教育的挑战是什么？",
+        "options": ["网速太慢", "学生容易分心", "课程太难", "老师水平不高"],
+        "correctIndex": 1,
+        "explanation": "文章说“有些学生在家学习的时候容易分心”。"
+      },
+      {
+        "question": "要在在线教育中取得好效果，学生需要什么？",
+        "options": ["好的电脑设备", "父母的帮助", "自律能力和独立学习习惯", "很多学习资料"],
+        "correctIndex": 2,
+        "explanation": "文章说学生需要“很强的自律能力和独立学习的习惯”。"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "topic": "日常生活",
+    "title": "健康饮食",
+    "titlePinyin": "Jiànkāng yǐnshí",
+    "passage": "现代人的生活节奏越来越快，很多人因为工作忙没有时间好好吃饭，经常吃快餐或者外卖。虽然这样很方便，但长期不健康的饮食习惯会给身体带来很多问题。专家建议，每天应该保证充分的蔬菜和水果摄入，减少油腻和高糖食物的摄入。此外，按时吃饭也很重要，不要因为忙就不吃早饭。养成良好的饮食习惯需要坚持，虽然一开始可能不太适应，但是长期坚持下去，你会发现身体状况有明显的改善。",
+    "passagePinyin": "Xiàndàirén de shēnghuó jiézòu yuè lái yuè kuài, hěn duō rén yīnwèi gōngzuò máng méiyǒu shíjiān hǎohāo chīfàn, jīngcháng chī kuàicān huòzhě wàimài. Suīrán zhèyàng hěn fāngbiàn, dàn chángqī bù jiànkāng de yǐnshí xíguàn huì gěi shēntǐ dàilái hěn duō wèntí. Zhuānjiā jiànyì, měi tiān yīnggāi bǎozhèng chōngfèn de shūcài hé shuǐguǒ shèrù, jiǎnshǎo yóunì hé gāo táng shíwù de shèrù. Cǐwài, ànshí chīfàn yě hěn zhòngyào, bú yào yīnwèi máng jiù bù chī zǎofàn. Yǎngchéng liánghǎo de yǐnshí xíguàn xūyào jiānchí, suīrán yì kāishǐ kěnéng bú tài shìyìng, dànshì chángqī jiānchí xiàqu, nǐ huì fāxiàn shēntǐ zhuàngkuàng yǒu míngxiǎn de gǎishàn.",
+    "targetWords": ["充分", "减少", "建议", "适应", "坚持"],
+    "questions": [
+      {
+        "question": "现代人饮食不健康的原因是什么？",
+        "options": ["食物太贵", "因为工作忙没时间好好吃饭", "不喜欢蔬菜", "饭店太少"],
+        "correctIndex": 1,
+        "explanation": "文章说“很多人因为工作忙没有时间好好吃饭，经常吃快餐或者外卖”。"
+      },
+      {
+        "question": "专家建议怎样改善饮食？",
+        "options": ["不吃晚饭", "多吃蔬菜水果，减少油腻食物", "只吃素食", "每天只吃两顿饭"],
+        "correctIndex": 1,
+        "explanation": "专家建议“保证充分的蔬菜和水果摄入，减少油腻和高糖食物的摄入”。"
+      },
+      {
+        "question": "关于养成好的饮食习惯，文章怎么说？",
+        "options": ["很容易做到", "需要坚持，长期才有效果", "只要一周就能看到效果", "不需要改变"],
+        "correctIndex": 1,
+        "explanation": "文章说“养成良好的饮食习惯需要坚持”，“长期坚持下去”才能看到改善。"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "topic": "工作",
+    "title": "职场中的合作精神",
+    "titlePinyin": "Zhíchǎng zhōng de hézuò jīngshén",
+    "passage": "在现代职场中，个人能力固然重要，但是团队合作的精神同样不可缺少。一个成功的项目往往需要不同专业背景的人共同努力才能完成。良好的团队合作首先需要成员之间相互尊重和信任。每个人都有自己的优点和特点，管理者应该根据每个人的特长来合理分配任务。此外，团队成员之间要保持充分的交流和沟通，及时解决出现的问题。当团队遇到困难的时候，大家应该互相支持和鼓励，而不是互相批评。只有这样，团队才能发挥最大的效率。",
+    "passagePinyin": "Zài xiàndài zhíchǎng zhōng, gèrén nénglì gùrán zhòngyào, dànshì tuánduì hézuò de jīngshén tóngyàng bùkě quēshǎo. Yí gè chénggōng de xiàngmù wǎngwǎng xūyào bùtóng zhuānyè bèijǐng de rén gòngtóng nǔlì cái néng wánchéng. Liánghǎo de tuánduì hézuò shǒuxiān xūyào chéngyuán zhījiān xiānghù zūnzhòng hé xìnrèn. Měi gè rén dōu yǒu zìjǐ de yōudiǎn hé tèdiǎn, guǎnlǐzhě yīnggāi gēnjù měi gè rén de tècháng lái hélǐ fēnpèi rènwu. Cǐwài, tuánduì chéngyuán zhījiān yào bǎochí chōngfèn de jiāoliú hé gōutōng, jíshí jiějué chūxiàn de wèntí. Dāng tuánduì yù dào kùnnan de shíhou, dàjiā yīnggāi hùxiāng zhīchí hé gǔlì, ér bú shì hùxiāng pīpíng. Zhǐyǒu zhèyàng, tuánduì cái néng fāhuī zuìdà de xiàolǜ.",
+    "targetWords": ["合作", "往往", "管理", "支持", "效率"],
+    "questions": [
+      {
+        "question": "文章认为职场中什么和个人能力同样重要？",
+        "options": ["工资水平", "工作经验", "团队合作精神", "学历背景"],
+        "correctIndex": 2,
+        "explanation": "文章说“个人能力固然重要，但是团队合作的精神同样不可缺少”。"
+      },
+      {
+        "question": "管理者应该怎么分配任务？",
+        "options": ["平均分配", "根据每个人的特长合理分配", "让最厉害的人做所有事", "随机分配"],
+        "correctIndex": 1,
+        "explanation": "文章说管理者应该“根据每个人的特长来合理分配任务”。"
+      },
+      {
+        "question": "团队遇到困难时应该怎么做？",
+        "options": ["互相批评", "放弃项目", "互相支持和鼓励", "让领导决定"],
+        "correctIndex": 2,
+        "explanation": "文章说“大家应该互相支持和鼓励，而不是互相批评”。"
+      }
+    ]
+  }
+]

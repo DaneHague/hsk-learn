@@ -1,0 +1,27 @@
+[
+  {
+    "promptChinese": "请写一次你最难忘的旅行。你去了哪里？看到了什么？有什么特别的经历？",
+    "promptEnglish": "Write about your most memorable trip. Where did you go? What did you see? Did you have any special experiences?",
+    "topic": "Travel"
+  },
+  {
+    "promptChinese": "你觉得怎么做才能保持健康？请说说你的健康习惯。",
+    "promptEnglish": "What do you think you should do to stay healthy? Please talk about your healthy habits.",
+    "topic": "Healthy habits"
+  },
+  {
+    "promptChinese": "你学习中文多长时间了？学中文最难的是什么？你用什么方法学习？",
+    "promptEnglish": "How long have you been learning Chinese? What is the hardest part? What methods do you use to study?",
+    "topic": "Learning Chinese"
+  },
+  {
+    "promptChinese": "如果你有一个星期的假期，你想做什么？请说说你的计划。",
+    "promptEnglish": "If you had a one-week vacation, what would you want to do? Please describe your plan.",
+    "topic": "Vacation plans"
+  },
+  {
+    "promptChinese": "请比较你小时候和现在的生活。有什么不同？你更喜欢哪种生活？",
+    "promptEnglish": "Compare your life as a child with your life now. What is different? Which life do you prefer?",
+    "topic": "Life changes"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "sentence": "我是学生。",
+    "pinyin": "Wǒ shì xuéshēng.",
+    "translation": "I am a student."
+  },
+  {
+    "sentence": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzì?",
+    "translation": "What is your name?"
+  },
+  {
+    "sentence": "她是我妈妈。",
+    "pinyin": "Tā shì wǒ māma.",
+    "translation": "She is my mom."
+  },
+  {
+    "sentence": "我喜欢吃米饭。",
+    "pinyin": "Wǒ xǐhuān chī mǐfàn.",
+    "translation": "I like to eat rice."
+  },
+  {
+    "sentence": "今天星期几？",
+    "pinyin": "Jīntiān xīngqī jǐ?",
+    "translation": "What day of the week is it today?"
+  },
+  {
+    "sentence": "我会说中文。",
+    "pinyin": "Wǒ huì shuō Zhōngwén.",
+    "translation": "I can speak Chinese."
+  },
+  {
+    "sentence": "请坐，喝茶。",
+    "pinyin": "Qǐng zuò, hē chá.",
+    "translation": "Please sit down and have some tea."
+  },
+  {
+    "sentence": "这是我的书。",
+    "pinyin": "Zhè shì wǒ de shū.",
+    "translation": "This is my book."
+  },
+  {
+    "sentence": "他在学校工作。",
+    "pinyin": "Tā zài xuéxiào gōngzuò.",
+    "translation": "He works at a school."
+  },
+  {
+    "sentence": "我家有三个人。",
+    "pinyin": "Wǒ jiā yǒu sān gè rén.",
+    "translation": "There are three people in my family."
+  }
+]

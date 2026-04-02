@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "topic": "旅行",
+    "title": "去云南旅行",
+    "titlePinyin": "Qù Yúnnán lǚxíng",
+    "passage": "上个月我和几个朋友一起去了云南旅行。虽然路上花了很长时间，但是到了以后觉得非常值得。云南的风景特别美，我们去了大理和丽江。因为是旅游旺季，所以到处都是游客，酒店也比平时贵了不少。我们在那里待了一个星期，拍了很多照片。这次旅行让我了解了云南的文化和历史，我打算以后再去一次。",
+    "passagePinyin": "Shàng gè yuè wǒ hé jǐ gè péngyou yìqǐ qù le Yúnnán lǚxíng. Suīrán lùshang huā le hěn cháng shíjiān, dànshì dào le yǐhòu juéde fēicháng zhíde. Yúnnán de fēngjǐng tèbié měi, wǒmen qù le Dàlǐ hé Lìjiāng. Yīnwèi shì lǚyóu wàngjì, suǒyǐ dàochù dōu shì yóukè, jiǔdiàn yě bǐ píngshí guì le bù shǎo. Wǒmen zài nàlǐ dāi le yí gè xīngqī, pāi le hěn duō zhàopiàn. Zhè cì lǚxíng ràng wǒ liǎojiě le Yúnnán de wénhuà hé lìshǐ, wǒ dǎsuàn yǐhòu zài qù yí cì.",
+    "targetWords": ["虽然", "风景", "因为", "了解", "打算"],
+    "questions": [
+      {
+        "question": "他们去云南旅行了多长时间？",
+        "options": ["三天", "五天", "一个星期", "两个星期"],
+        "correctIndex": 2,
+        "explanation": "文章说“我们在那里待了一个星期”。"
+      },
+      {
+        "question": "为什么酒店比平时贵？",
+        "options": ["因为酒店很新", "因为是旅游旺季", "因为风景好", "因为在大城市"],
+        "correctIndex": 1,
+        "explanation": "文章说“因为是旅游旺季，所以到处都是游客，酒店也比平时贵了不少”。"
+      },
+      {
+        "question": "作者对这次旅行的感受是什么？",
+        "options": ["觉得没意思", "觉得太累了", "觉得非常值得", "觉得太贵了"],
+        "correctIndex": 2,
+        "explanation": "虽然路上花了很长时间，“但是到了以后觉得非常值得”，而且他打算以后再去。"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "健康",
+    "title": "注意身体健康",
+    "titlePinyin": "Zhùyì shēntǐ jiànkāng",
+    "passage": "最近我的身体不太好，因为工作太忙了，每天都很晚才回家。上个星期我生病了，去医院看了医生。医生说我需要多休息，还要注意饮食。虽然我知道运动对身体很好，但是以前总觉得没有时间。现在我决定每天早起半个小时去跑步，而且不再吃太多快餐了。希望我的身体会越来越好。",
+    "passagePinyin": "Zuìjìn wǒ de shēntǐ bú tài hǎo, yīnwèi gōngzuò tài máng le, měi tiān dōu hěn wǎn cái huí jiā. Shàng gè xīngqī wǒ shēngbìng le, qù yīyuàn kàn le yīshēng. Yīshēng shuō wǒ xūyào duō xiūxi, hái yào zhùyì yǐnshí. Suīrán wǒ zhīdào yùndòng duì shēntǐ hěn hǎo, dànshì yǐqián zǒng juéde méiyǒu shíjiān. Xiànzài wǒ juédìng měi tiān zǎo qǐ bàn gè xiǎoshí qù pǎobù, érqiě bú zài chī tài duō kuàicān le. Xīwàng wǒ de shēntǐ huì yuè lái yuè hǎo.",
+    "targetWords": ["健康", "生病", "休息", "决定", "越来越"],
+    "questions": [
+      {
+        "question": "他身体不好的原因是什么？",
+        "options": ["吃得太少", "工作太忙", "运动太多", "天气不好"],
+        "correctIndex": 1,
+        "explanation": "文章说“因为工作太忙了，每天都很晚才回家”。"
+      },
+      {
+        "question": "医生给了他什么建议？",
+        "options": ["多吃药", "多休息，注意饮食", "不要上班", "去旅行"],
+        "correctIndex": 1,
+        "explanation": "医生说他“需要多休息，还要注意饮食”。"
+      },
+      {
+        "question": "他决定做什么来改善健康？",
+        "options": ["换工作", "早起跑步", "去健身房", "吃中药"],
+        "correctIndex": 1,
+        "explanation": "文章说他“决定每天早起半个小时去跑步，而且不再吃太多快餐了”。"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "学校生活",
+    "title": "期末考试",
+    "titlePinyin": "Qīmò kǎoshì",
+    "passage": "下个星期就要期末考试了，同学们都在认真地复习。我的数学成绩一直不太好，因为上课的时候有些内容没有听懂。虽然我已经开始复习了，但是还有很多不明白的地方。所以我请了一个同学帮我补习，她的数学非常好。经过几天的学习，我觉得自己进步了不少。虽然不知道能不能考好，但是我已经尽力了。",
+    "passagePinyin": "Xià gè xīngqī jiù yào qīmò kǎoshì le, tóngxuémen dōu zài rènzhēn de fùxí. Wǒ de shùxué chéngjì yìzhí bú tài hǎo, yīnwèi shàngkè de shíhou yǒuxiē nèiróng méiyǒu tīng dǒng. Suīrán wǒ yǐjīng kāishǐ fùxí le, dànshì hái yǒu hěn duō bù míngbai de dìfang. Suǒyǐ wǒ qǐng le yí gè tóngxué bāng wǒ bǔxí, tā de shùxué fēicháng hǎo. Jīngguò jǐ tiān de xuéxí, wǒ juéde zìjǐ jìnbù le bù shǎo. Suīrán bù zhīdào néng bù néng kǎo hǎo, dànshì wǒ yǐjīng jìnlì le.",
+    "targetWords": ["考试", "复习", "成绩", "进步", "明白"],
+    "questions": [
+      {
+        "question": "他的哪门课成绩不太好？",
+        "options": ["英语", "语文", "数学", "历史"],
+        "correctIndex": 2,
+        "explanation": "文章说“我的数学成绩一直不太好”。"
+      },
+      {
+        "question": "他为什么请同学帮忙？",
+        "options": ["因为他没有课本", "因为还有很多不明白的地方", "因为老师让他请的", "因为他不想自己学"],
+        "correctIndex": 1,
+        "explanation": "文章说“虽然我已经开始复习了，但是还有很多不明白的地方”，所以请同学帮忙补习。"
+      },
+      {
+        "question": "经过补习以后，他的感觉怎么样？",
+        "options": ["觉得更难了", "觉得自己进步了", "觉得没有用", "觉得很累"],
+        "correctIndex": 1,
+        "explanation": "文章说“经过几天的学习，我觉得自己进步了不少”。"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "租房",
+    "title": "找房子",
+    "titlePinyin": "Zhǎo fángzi",
+    "passage": "我刚来这个城市工作，需要租一个房子。我在网上看了很多房子的信息。市中心的房子虽然交通方便，但是租金太贵了，一个月要四千块。我的同事建议我住远一点的地方，虽然每天坐地铁要半个小时，但是租金便宜很多，只要两千块。最后我决定租了一个离地铁站近的房子，又便宜又方便。",
+    "passagePinyin": "Wǒ gāng lái zhège chéngshì gōngzuò, xūyào zū yí gè fángzi. Wǒ zài wǎngshàng kàn le hěn duō fángzi de xìnxī. Shì zhōngxīn de fángzi suīrán jiāotōng fāngbiàn, dànshì zūjīn tài guì le, yí gè yuè yào sì qiān kuài. Wǒ de tóngshì jiànyì wǒ zhù yuǎn yìdiǎn de dìfang, suīrán měi tiān zuò dìtiě yào bàn gè xiǎoshí, dànshì zūjīn piányi hěn duō, zhǐ yào liǎng qiān kuài. Zuìhòu wǒ juédìng zū le yí gè lí dìtiě zhàn jìn de fángzi, yòu piányi yòu fāngbiàn.",
+    "targetWords": ["租", "信息", "交通", "建议", "决定"],
+    "questions": [
+      {
+        "question": "市中心的房子一个月多少钱？",
+        "options": ["两千块", "三千块", "四千块", "五千块"],
+        "correctIndex": 2,
+        "explanation": "文章说市中心的房子“一个月要四千块”。"
+      },
+      {
+        "question": "同事建议他怎么做？",
+        "options": ["买房子", "住远一点的地方", "跟朋友合住", "住公司附近"],
+        "correctIndex": 1,
+        "explanation": "同事“建议我住远一点的地方”，因为租金便宜。"
+      },
+      {
+        "question": "他最后租的房子有什么特点？",
+        "options": ["在市中心", "离地铁站近，又便宜又方便", "很大很新", "在公司旁边"],
+        "correctIndex": 1,
+        "explanation": "文章说他租了“一个离地铁站近的房子，又便宜又方便”。"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "做饭",
+    "title": "学做中国菜",
+    "titlePinyin": "Xué zuò Zhōngguó cài",
+    "passage": "我一直想学做中国菜。上个月我报了一个烹饪班，每个周末上一次课。老师教我们做了好几个菜，比如宫保鸡丁和番茄炒蛋。做中国菜最重要的是火候和调味。虽然我做的菜没有老师做的好吃，但是比以前进步了很多。现在我每个周末都会在家做饭，请朋友来吃。他们都说我做的菜越来越好吃了。",
+    "passagePinyin": "Wǒ yìzhí xiǎng xué zuò Zhōngguó cài. Shàng gè yuè wǒ bào le yí gè pēngrèn bān, měi gè zhōumò shàng yí cì kè. Lǎoshī jiāo wǒmen zuò le hǎo jǐ gè cài, bǐrú gōngbǎo jīdīng hé fānqié chǎo dàn. Zuò Zhōngguó cài zuì zhòngyào de shì huǒhou hé tiáowèi. Suīrán wǒ zuò de cài méiyǒu lǎoshī zuò de hǎochī, dànshì bǐ yǐqián jìnbù le hěn duō. Xiànzài wǒ měi gè zhōumò dōu huì zài jiā zuò fàn, qǐng péngyou lái chī. Tāmen dōu shuō wǒ zuò de cài yuè lái yuè hǎochī le.",
+    "targetWords": ["一直", "比如", "重要", "虽然", "越来越"],
+    "questions": [
+      {
+        "question": "他多久上一次烹饪课？",
+        "options": ["每天", "每个周末", "每个月", "每两周"],
+        "correctIndex": 1,
+        "explanation": "文章说“每个周末上一次课”。"
+      },
+      {
+        "question": "做中国菜最重要的是什么？",
+        "options": ["食材新鲜", "火候和调味", "刀工好", "锅要大"],
+        "correctIndex": 1,
+        "explanation": "文章说“做中国菜最重要的是火候和调味”。"
+      },
+      {
+        "question": "朋友们对他做的菜怎么评价？",
+        "options": ["不太好吃", "越来越好吃", "太辣了", "需要多练习"],
+        "correctIndex": 1,
+        "explanation": "朋友们“都说我做的菜越来越好吃了”。"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "季节",
+    "title": "四季变化",
+    "titlePinyin": "Sìjì biànhuà",
+    "passage": "北京一年有四个季节，每个季节都不一样。春天不太长，天气慢慢变暖和了，公园里的花都开了。夏天非常热，经常超过三十五度，很多人都不想出门。秋天是最舒服的季节，天气凉快，树叶变成了黄色和红色，特别漂亮。冬天很冷，有时候会下雪。我最喜欢秋天，因为天气不冷不热，而且风景也很美。",
+    "passagePinyin": "Běijīng yì nián yǒu sì gè jìjié, měi gè jìjié dōu bù yíyàng. Chūntiān bú tài cháng, tiānqì mànmàn biàn nuǎnhuo le, gōngyuán lǐ de huā dōu kāi le. Xiàtiān fēicháng rè, jīngcháng chāoguò sānshíwǔ dù, hěn duō rén dōu bù xiǎng chūmén. Qiūtiān shì zuì shūfu de jìjié, tiānqì liángkuai, shùyè biànchéng le huángsè hé hóngsè, tèbié piàoliang. Dōngtiān hěn lěng, yǒu shíhou huì xià xuě. Wǒ zuì xǐhuan qiūtiān, yīnwèi tiānqì bù lěng bú rè, érqiě fēngjǐng yě hěn měi.",
+    "targetWords": ["季节", "变化", "凉快", "经常", "特别"],
+    "questions": [
+      {
+        "question": "北京夏天的温度经常超过多少度？",
+        "options": ["二十五度", "三十度", "三十五度", "四十度"],
+        "correctIndex": 2,
+        "explanation": "文章说夏天“经常超过三十五度”。"
+      },
+      {
+        "question": "作者最喜欢哪个季节？",
+        "options": ["春天", "夏天", "秋天", "冬天"],
+        "correctIndex": 2,
+        "explanation": "文章说“我最喜欢秋天”。"
+      },
+      {
+        "question": "秋天的树叶变成什么颜色？",
+        "options": ["绿色和蓝色", "黄色和红色", "白色和灰色", "没有变化"],
+        "correctIndex": 1,
+        "explanation": "文章说“树叶变成了黄色和红色”。"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "学中文",
+    "title": "学中文的经历",
+    "titlePinyin": "Xué Zhōngwén de jīnglì",
+    "passage": "我学中文已经两年了。刚开始的时候，我觉得中文特别难，尤其是声调和汉字。老师告诉我，学语言最重要的是多练习。所以我每天都练习说中文，而且找了一个中国朋友跟我聊天。慢慢地，我发现自己能听懂越来越多的话了。现在我能看简单的中文新闻，也能跟中国人进行基本的对话。虽然我的中文还不够好，但是我不会放弃。",
+    "passagePinyin": "Wǒ xué Zhōngwén yǐjīng liǎng nián le. Gāng kāishǐ de shíhou, wǒ juéde Zhōngwén tèbié nán, yóuqí shì shēngdiào hé Hànzì. Lǎoshī gàosu wǒ, xué yǔyán zuì zhòngyào de shì duō liànxí. Suǒyǐ wǒ měi tiān dōu liànxí shuō Zhōngwén, érqiě zhǎo le yí gè Zhōngguó péngyou gēn wǒ liáotiān. Mànman de, wǒ fāxiàn zìjǐ néng tīng dǒng yuè lái yuè duō de huà le. Xiànzài wǒ néng kàn jiǎndān de Zhōngwén xīnwén, yě néng gēn Zhōngguó rén jìnxíng jīběn de duìhuà. Suīrán wǒ de Zhōngwén hái bú gòu hǎo, dànshì wǒ bú huì fàngqì.",
+    "targetWords": ["尤其", "练习", "发现", "基本", "放弃"],
+    "questions": [
+      {
+        "question": "他觉得中文最难的部分是什么？",
+        "options": ["语法和词汇", "声调和汉字", "阅读和写作", "听力和口语"],
+        "correctIndex": 1,
+        "explanation": "文章说他觉得“尤其是声调和汉字”最难。"
+      },
+      {
+        "question": "他用什么方法提高中文？",
+        "options": ["看很多书", "每天练习说，找中国朋友聊天", "去中国留学", "上很多课"],
+        "correctIndex": 1,
+        "explanation": "他“每天都练习说中文，而且找了一个中国朋友跟我聊天”。"
+      },
+      {
+        "question": "现在他的中文水平怎么样？",
+        "options": ["完全不会", "能看新闻和进行基本对话", "跟中国人一样好", "只会写不会说"],
+        "correctIndex": 1,
+        "explanation": "文章说他“能看简单的中文新闻，也能跟中国人进行基本的对话”。"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "网购",
+    "title": "网上买东西",
+    "titlePinyin": "Wǎngshàng mǎi dōngxi",
+    "passage": "现在很多人都喜欢在网上买东西，因为又方便又便宜。上个星期我在网上买了一双鞋子。网上的价格比商店便宜了一百多块。但是鞋子到了以后，我发现尺码太小了，穿不了。所以我申请了退货，快递公司第二天就来取了。虽然退货有点麻烦，但是网上购物还是比去商店方便得多。",
+    "passagePinyin": "Xiànzài hěn duō rén dōu xǐhuan zài wǎngshàng mǎi dōngxi, yīnwèi yòu fāngbiàn yòu piányi. Shàng gè xīngqī wǒ zài wǎngshàng mǎi le yì shuāng xiézi. Wǎngshàng de jiàgé bǐ shāngdiàn piányi le yì bǎi duō kuài. Dànshì xiézi dào le yǐhòu, wǒ fāxiàn chǐmǎ tài xiǎo le, chuān bù liǎo. Suǒyǐ wǒ shēnqǐng le tuìhuò, kuàidì gōngsī dì èr tiān jiù lái qǔ le. Suīrán tuìhuò yǒudiǎn máfan, dànshì wǎngshàng gòuwù háishì bǐ qù shāngdiàn fāngbiàn de duō.",
+    "targetWords": ["方便", "价格", "发现", "申请", "麻烦"],
+    "questions": [
+      {
+        "question": "网上的鞋子比商店便宜多少？",
+        "options": ["五十多块", "一百多块", "两百多块", "三百多块"],
+        "correctIndex": 1,
+        "explanation": "文章说“网上的价格比商店便宜了一百多块”。"
+      },
+      {
+        "question": "他为什么要退货？",
+        "options": ["颜色不对", "质量不好", "尺码太小", "款式不好看"],
+        "correctIndex": 2,
+        "explanation": "文章说“尺码太小了，穿不了”。"
+      },
+      {
+        "question": "他对网上购物的看法是什么？",
+        "options": ["不好，不想再买了", "虽然有时麻烦但比去商店方便", "跟去商店一样", "太麻烦了"],
+        "correctIndex": 1,
+        "explanation": "他觉得“网上购物还是比去商店方便得多”。"
+      }
+    ]
+  }
+]

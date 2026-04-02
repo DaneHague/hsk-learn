@@ -1,0 +1,32 @@
+[
+  {
+    "questionChinese": "你觉得科技对教育有什么影响？",
+    "questionPinyin": "Nǐ juéde kējì duì jiàoyù yǒu shénme yǐngxiǎng?",
+    "questionEnglish": "What impact do you think technology has on education?",
+    "topic": "technology and education"
+  },
+  {
+    "questionChinese": "保护环境，我们应该怎么做？",
+    "questionPinyin": "Bǎohù huánjìng, wǒmen yīnggāi zěnme zuò?",
+    "questionEnglish": "What should we do to protect the environment?",
+    "topic": "environment"
+  },
+  {
+    "questionChinese": "你认为在大城市生活和在小城市生活各有什么优点和缺点？",
+    "questionPinyin": "Nǐ rènwéi zài dà chéngshì shēnghuó hé zài xiǎo chéngshì shēnghuó gè yǒu shénme yōudiǎn hé quēdiǎn?",
+    "questionEnglish": "What do you think are the advantages and disadvantages of living in a big city versus a small city?",
+    "topic": "urban vs rural life"
+  },
+  {
+    "questionChinese": "有人说读书比看电影更有意义，你同意吗？为什么？",
+    "questionPinyin": "Yǒu rén shuō dúshū bǐ kàn diànyǐng gèng yǒu yìyì, nǐ tóngyì ma? Wèi shénme?",
+    "questionEnglish": "Some say reading books is more meaningful than watching movies. Do you agree? Why?",
+    "topic": "books and media"
+  },
+  {
+    "questionChinese": "你觉得什么样的工作才是好工作？",
+    "questionPinyin": "Nǐ juéde shénme yàng de gōngzuò cái shì hǎo gōngzuò?",
+    "questionEnglish": "What do you think makes a good job?",
+    "topic": "career"
+  }
+]

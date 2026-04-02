@@ -1,0 +1,32 @@
+[
+  {
+    "questionChinese": "你昨天做了什么？",
+    "questionPinyin": "Nǐ zuótiān zuò le shénme?",
+    "questionEnglish": "What did you do yesterday?",
+    "topic": "past events"
+  },
+  {
+    "questionChinese": "你最喜欢什么天气？",
+    "questionPinyin": "Nǐ zuì xǐhuān shénme tiānqì?",
+    "questionEnglish": "What kind of weather do you like most?",
+    "topic": "weather"
+  },
+  {
+    "questionChinese": "你周末喜欢做什么？",
+    "questionPinyin": "Nǐ zhōumò xǐhuān zuò shénme?",
+    "questionEnglish": "What do you like to do on weekends?",
+    "topic": "hobbies"
+  },
+  {
+    "questionChinese": "你每天怎么去上班？",
+    "questionPinyin": "Nǐ měitiān zěnme qù shàngbān?",
+    "questionEnglish": "How do you get to work every day?",
+    "topic": "transportation"
+  },
+  {
+    "questionChinese": "你喜欢什么运动？",
+    "questionPinyin": "Nǐ xǐhuān shénme yùndòng?",
+    "questionEnglish": "What sport do you like?",
+    "topic": "sports"
+  }
+]

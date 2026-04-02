@@ -1,0 +1,52 @@
+[
+  {
+    "sentence": "昨天天气很好。",
+    "pinyin": "Zuótiān tiānqì hěn hǎo.",
+    "translation": "The weather was very nice yesterday."
+  },
+  {
+    "sentence": "这件衣服多少钱？",
+    "pinyin": "Zhè jiàn yīfú duōshǎo qián?",
+    "translation": "How much does this piece of clothing cost?"
+  },
+  {
+    "sentence": "你可以帮我吗？",
+    "pinyin": "Nǐ kěyǐ bāng wǒ ma?",
+    "translation": "Can you help me?"
+  },
+  {
+    "sentence": "我每天早上跑步。",
+    "pinyin": "Wǒ měi tiān zǎoshàng pǎobù.",
+    "translation": "I go running every morning."
+  },
+  {
+    "sentence": "他比我高一点。",
+    "pinyin": "Tā bǐ wǒ gāo yīdiǎn.",
+    "translation": "He is a little taller than me."
+  },
+  {
+    "sentence": "我觉得这个电影很好看。",
+    "pinyin": "Wǒ juédé zhège diànyǐng hěn hǎokàn.",
+    "translation": "I think this movie is very good."
+  },
+  {
+    "sentence": "从我家到公司很近。",
+    "pinyin": "Cóng wǒ jiā dào gōngsī hěn jìn.",
+    "translation": "It is very close from my home to the office."
+  },
+  {
+    "sentence": "你已经吃过午饭了吗？",
+    "pinyin": "Nǐ yǐjīng chīguò wǔfàn le ma?",
+    "translation": "Have you already eaten lunch?"
+  },
+  {
+    "sentence": "我正在看一本新书。",
+    "pinyin": "Wǒ zhèngzài kàn yī běn xīn shū.",
+    "translation": "I am currently reading a new book."
+  },
+  {
+    "sentence": "弟弟还没做完作业。",
+    "pinyin": "Dìdì hái méi zuòwán zuòyè.",
+    "translation": "My younger brother hasn't finished his homework yet."
+  }
+]

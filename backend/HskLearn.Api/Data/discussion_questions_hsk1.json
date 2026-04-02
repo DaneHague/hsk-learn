@@ -1,0 +1,32 @@
+[
+  {
+    "questionChinese": "你叫什么名字？",
+    "questionPinyin": "Nǐ jiào shénme míngzi?",
+    "questionEnglish": "What is your name?",
+    "topic": "introductions"
+  },
+  {
+    "questionChinese": "你喜欢吃什么？",
+    "questionPinyin": "Nǐ xǐhuān chī shénme?",
+    "questionEnglish": "What do you like to eat?",
+    "topic": "food"
+  },
+  {
+    "questionChinese": "你家有几个人？",
+    "questionPinyin": "Nǐ jiā yǒu jǐ gè rén?",
+    "questionEnglish": "How many people are in your family?",
+    "topic": "family"
+  },
+  {
+    "questionChinese": "你住在哪里？",
+    "questionPinyin": "Nǐ zhù zài nǎlǐ?",
+    "questionEnglish": "Where do you live?",
+    "topic": "home"
+  },
+  {
+    "questionChinese": "你今天做什么？",
+    "questionPinyin": "Nǐ jīntiān zuò shénme?",
+    "questionEnglish": "What are you doing today?",
+    "topic": "daily life"
+  }
+]

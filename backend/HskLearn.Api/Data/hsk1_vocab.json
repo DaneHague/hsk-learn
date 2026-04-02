@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "word": "爱",
+    "pinyin": "ài",
+    "partOfSpeech": "",
+    "translation": "love",
+    "hskLevel": 1
+  },
+  {
+    "id": 2,
+    "word": "爱好",
+    "pinyin": "ài hào",
+    "partOfSpeech": "",
+    "translation": "hobby",
+    "hskLevel": 1
+  },
+  {
+    "id": 3,
+    "word": "八",
+    "pinyin": "bā",
+    "partOfSpeech": "",
+    "translation": "eight",
+    "hskLevel": 1
+  },
+  {
+    "id": 4,
+    "word": "爸爸｜爸",
+    "pinyin": "bàba ｜ bà",
+    "partOfSpeech": "",
+    "translation": "dad",
+    "hskLevel": 1
+  },
+  {
+    "id": 5,
+    "word": "吧",
+    "pinyin": "ba",
+    "partOfSpeech": "",
+    "translation": "(interjection particle)",
+    "hskLevel": 1
+  },
+  {
+    "id": 6,
+    "word": "白",
+    "pinyin": "bái",
+    "partOfSpeech": "",
+    "translation": "white",
+    "hskLevel": 1
+  },
+  {
+    "id": 7,
+    "word": "白天",
+    "pinyin": "bái tiān",
+    "partOfSpeech": "",
+    "translation": "day",
+    "hskLevel": 1
+  },
+  {
+    "id": 8,
+    "word": "百",
+    "pinyin": "bǎi",
+    "partOfSpeech": "",
+    "translation": "hundred",
+    "hskLevel": 1
+  },
+  {
+    "id": 9,
+    "word": "班",
+    "pinyin": "bān",
+    "partOfSpeech": "",
+    "translation": "class",
+    "hskLevel": 1
+  },
+  {
+    "id": 10,
+    "word": "半",
+    "pinyin": "bàn",
+    "partOfSpeech": "",
+    "translation": "half",
+    "hskLevel": 1
+  },
+  {
+    "id": 11,
+    "word": "半年",
+    "pinyin": "bàn nián",
+    "partOfSpeech": "",
+    "translation": "half a year",
+    "hskLevel": 1
+  },
+  {
+    "id": 12,
+    "word": "半天",
+    "pinyin": "bàn tiān",
+    "partOfSpeech": "",
+    "translation": "half day",
+    "hskLevel": 1
+  },
+  {
+    "id": 13,
+    "word": "帮",
+    "pinyin": "bāng",
+    "partOfSpeech": "",
+    "translation": "help",
+    "hskLevel": 1
+  },
+  {
+    "id": 14,
+    "word": "帮忙",
+    "pinyin": "bāng máng",
+    "partOfSpeech": "",
+    "translation": "help",
+    "hskLevel": 1
+  },
+  {
+    "id": 15,
+    "word": "包",
+    "pinyin": "bāo",
+    "partOfSpeech": "",
+    "translation": "package",
+    "hskLevel": 1
+  },
+  {
+    "id": 16,
+    "word": "包子",
+    "pinyin": "bāo",
+    "partOfSpeech": "",
+    "translation": "zi bun",
+    "hskLevel": 1
+  },
+  {
+    "id": 17,
+    "word": "杯",
+    "pinyin": "bēi",
+    "partOfSpeech": "",
+    "translation": "cup",
+    "hskLevel": 1
+  },
+  {
+    "id": 18,
+    "word": "杯子",
+    "pinyin": "bēi",
+    "partOfSpeech": "",
+    "translation": "zi cup",
+    "hskLevel": 1
+  },
+  {
+    "id": 19,
+    "word": "北",
+    "pinyin": "běi",
+    "partOfSpeech": "",
+    "translation": "north",
+    "hskLevel": 1
+  },
+  {
+    "id": 20,
+    "word": "北边",
+    "pinyin": "běi biān",
+    "partOfSpeech": "",
+    "translation": "North side",
+    "hskLevel": 1
+  },
+  {
+    "id": 21,
+    "word": "北京",
+    "pinyin": "běi jīng",
+    "partOfSpeech": "",
+    "translation": "Beijing",
+    "hskLevel": 1
+  },
+  {
+    "id": 22,
+    "word": "本",
+    "pinyin": "běn",
+    "partOfSpeech": "",
+    "translation": "(measure word for books or volumes)",
+    "hskLevel": 1
+  },
+  {
+    "id": 23,
+    "word": "本子",
+    "pinyin": "běn",
+    "partOfSpeech": "",
+    "translation": "zi book",
+    "hskLevel": 1
+  },
+  {
+    "id": 24,
+    "word": "比",
+    "pinyin": "bǐ",
+    "partOfSpeech": "",
+    "translation": "particle used for comparison",
+    "hskLevel": 1
+  },
+  {
+    "id": 25,
+    "word": "别",
+    "pinyin": "bié",
+    "partOfSpeech": "",
+    "translation": "Don’t",
+    "hskLevel": 1
+  },
+  {
+    "id": 26,
+    "word": "别的",
+    "pinyin": "bié",
+    "partOfSpeech": "",
+    "translation": "de other",
+    "hskLevel": 1
+  },
+  {
+    "id": 27,
+    "word": "别人",
+    "pinyin": "bié·rén",
+    "partOfSpeech": "",
+    "translation": "other people",
+    "hskLevel": 1
+  },
+  {
+    "id": 28,
+    "word": "病",
+    "pinyin": "bìng",
+    "partOfSpeech": "",
+    "translation": "disease",
+    "hskLevel": 1
+  },
+  {
+    "id": 29,
+    "word": "病人",
+    "pinyin": "bìng rén",
+    "partOfSpeech": "",
+    "translation": "patient",
+    "hskLevel": 1
+  },
+  {
+    "id": 30,
+    "word": "不大",
+    "pinyin": "bú dà",
+    "partOfSpeech": "",
+    "translation": "not big",
+    "hskLevel": 1
+  },
+  {
+    "id": 31,
+    "word": "不对",
+    "pinyin": "bú duì",
+    "partOfSpeech": "",
+    "translation": "wrong",
+    "hskLevel": 1
+  },
+  {
+    "id": 32,
+    "word": "不客气",
+    "pinyin": "bú kè qì",
+    "partOfSpeech": "",
+    "translation": "You’re welcome",
+    "hskLevel": 1
+  },
+  {
+    "id": 33,
+    "word": "不用",
+    "pinyin": "bú yòng",
+    "partOfSpeech": "",
+    "translation": "No need to",
+    "hskLevel": 1
+  },
+  {
+    "id": 34,
+    "word": "不",
+    "pinyin": "bù",
+    "partOfSpeech": "",
+    "translation": "No",
+    "hskLevel": 1
+  },
+  {
+    "id": 35,
+    "word": "菜",
+    "pinyin": "cài",
+    "partOfSpeech": "",
+    "translation": "dish",
+    "hskLevel": 1
+  },
+  {
+    "id": 36,
+    "word": "茶",
+    "pinyin": "chá",
+    "partOfSpeech": "",
+    "translation": "tea",
+    "hskLevel": 1
+  },
+  {
+    "id": 37,
+    "word": "差",
+    "pinyin": "chà",
+    "partOfSpeech": "",
+    "translation": "differ from; bad; short of",
+    "hskLevel": 1
+  },
+  {
+    "id": 38,
+    "word": "常",
+    "pinyin": "cháng",
+    "partOfSpeech": "",
+    "translation": "often",
+    "hskLevel": 1
+  },
+  {
+    "id": 39,
+    "word": "常常",
+    "pinyin": "cháng cháng",
+    "partOfSpeech": "",
+    "translation": "often",
+    "hskLevel": 1
+  },
+  {
+    "id": 40,
+    "word": "唱",
+    "pinyin": "chàng",
+    "partOfSpeech": "",
+    "translation": "sing",
+    "hskLevel": 1
+  },
+  {
+    "id": 41,
+    "word": "唱歌",
+    "pinyin": "chàng gē",
+    "partOfSpeech": "",
+    "translation": "sing",
+    "hskLevel": 1
+  },
+  {
+    "id": 42,
+    "word": "车",
+    "pinyin": "chē",
+    "partOfSpeech": "",
+    "translation": "car",
+    "hskLevel": 1
+  },
+  {
+    "id": 43,
+    "word": "车票",
+    "pinyin": "chē piào",
+    "partOfSpeech": "",
+    "translation": "ticket",
+    "hskLevel": 1
+  },
+  {
+    "id": 44,
+    "word": "车上",
+    "pinyin": "chē shàng",
+    "partOfSpeech": "",
+    "translation": "in the car",
+    "hskLevel": 1
+  },
+  {
+    "id": 45,
+    "word": "车站",
+    "pinyin": "chē zhàn",
+    "partOfSpeech": "",
+    "translation": "station",
+    "hskLevel": 1
+  },
+  {
+    "id": 46,
+    "word": "吃",
+    "pinyin": "chī",
+    "partOfSpeech": "",
+    "translation": "eat",
+    "hskLevel": 1
+  },
+  {
+    "id": 47,
+    "word": "吃饭",
+    "pinyin": "chī fàn",
+    "partOfSpeech": "",
+    "translation": "have meal",
+    "hskLevel": 1
+  },
+  {
+    "id": 48,
+    "word": "出",
+    "pinyin": "chū",
+    "partOfSpeech": "",
+    "translation": "out",
+    "hskLevel": 1
+  },
+  {
+    "id": 49,
+    "word": "出来",
+    "pinyin": "chū lái",
+    "partOfSpeech": "",
+    "translation": "come",
+    "hskLevel": 1
+  },
+  {
+    "id": 50,
+    "word": "出去",
+    "pinyin": "chū qù",
+    "partOfSpeech": "",
+    "translation": "go out",
+    "hskLevel": 1
+  },
+  {
+    "id": 51,
+    "word": "穿",
+    "pinyin": "chuān",
+    "partOfSpeech": "",
+    "translation": "wear",
+    "hskLevel": 1
+  },
+  {
+    "id": 52,
+    "word": "床",
+    "pinyin": "chuáng",
+    "partOfSpeech": "",
+    "translation": "bed",
+    "hskLevel": 1
+  },
+  {
+    "id": 53,
+    "word": "次",
+    "pinyin": "cì",
+    "partOfSpeech": "",
+    "translation": "(measure word for times, frequency)",
+    "hskLevel": 1
+  },
+  {
+    "id": 54,
+    "word": "从",
+    "pinyin": "cóng",
+    "partOfSpeech": "",
+    "translation": "from",
+    "hskLevel": 1
+  },
+  {
+    "id": 55,
+    "word": "错",
+    "pinyin": "cuò",
+    "partOfSpeech": "",
+    "translation": "wrong",
+    "hskLevel": 1
+  },
+  {
+    "id": 56,
+    "word": "打",
+    "pinyin": "dǎ",
+    "partOfSpeech": "",
+    "translation": "hit, take",
+    "hskLevel": 1
+  },
+  {
+    "id": 57,
+    "word": "打车",
+    "pinyin": "dǎ chē",
+    "partOfSpeech": "",
+    "translation": "take a taxi",
+    "hskLevel": 1
+  },
+  {
+    "id": 58,
+    "word": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "partOfSpeech": "",
+    "translation": "make a phonecall",
+    "hskLevel": 1
+  },
+  {
+    "id": 59,
+    "word": "打开",
+    "pinyin": "dǎ kāi",
+    "partOfSpeech": "",
+    "translation": "turn on",
+    "hskLevel": 1
+  },
+  {
+    "id": 60,
+    "word": "打球",
+    "pinyin": "dǎ qiú",
+    "partOfSpeech": "",
+    "translation": "play ball",
+    "hskLevel": 1
+  },
+  {
+    "id": 61,
+    "word": "大",
+    "pinyin": "dà",
+    "partOfSpeech": "",
+    "translation": "large, big",
+    "hskLevel": 1
+  },
+  {
+    "id": 62,
+    "word": "大学",
+    "pinyin": "dà xué",
+    "partOfSpeech": "",
+    "translation": "university",
+    "hskLevel": 1
+  },
+  {
+    "id": 63,
+    "word": "大学生",
+    "pinyin": "dà xué shēng",
+    "partOfSpeech": "",
+    "translation": "university student",
+    "hskLevel": 1
+  },
+  {
+    "id": 64,
+    "word": "到",
+    "pinyin": "dào",
+    "partOfSpeech": "",
+    "translation": "reach",
+    "hskLevel": 1
+  },
+  {
+    "id": 65,
+    "word": "得到",
+    "pinyin": "dé dào",
+    "partOfSpeech": "",
+    "translation": "get",
+    "hskLevel": 1
+  },
+  {
+    "id": 66,
+    "word": "地",
+    "pinyin": "de",
+    "partOfSpeech": "",
+    "translation": "auxiliary word",
+    "hskLevel": 1
+  },
+  {
+    "id": 67,
+    "word": "的",
+    "pinyin": "de",
+    "partOfSpeech": "",
+    "translation": "(aux.)",
+    "hskLevel": 1
+  },
+  {
+    "id": 68,
+    "word": "等",
+    "pinyin": "děng",
+    "partOfSpeech": "",
+    "translation": "wait",
+    "hskLevel": 1
+  },
+  {
+    "id": 69,
+    "word": "地",
+    "pinyin": "dì",
+    "partOfSpeech": "",
+    "translation": "ground",
+    "hskLevel": 1
+  },
+  {
+    "id": 70,
+    "word": "地点",
+    "pinyin": "dìdiǎn",
+    "partOfSpeech": "",
+    "translation": "location",
+    "hskLevel": 1
+  },
+  {
+    "id": 71,
+    "word": "地方",
+    "pinyin": "dìfang",
+    "partOfSpeech": "",
+    "translation": "local",
+    "hskLevel": 1
+  },
+  {
+    "id": 72,
+    "word": "地上",
+    "pinyin": "dì shàng",
+    "partOfSpeech": "",
+    "translation": "on the ground",
+    "hskLevel": 1
+  },
+  {
+    "id": 73,
+    "word": "地图",
+    "pinyin": "dìtú",
+    "partOfSpeech": "",
+    "translation": "Map",
+    "hskLevel": 1
+  },
+  {
+    "id": 74,
+    "word": "弟弟｜弟",
+    "pinyin": "dì di ｜ dì",
+    "partOfSpeech": "",
+    "translation": "younger brother",
+    "hskLevel": 1
+  },
+  {
+    "id": 75,
+    "word": "第",
+    "pinyin": "dì （ dì èr ）",
+    "partOfSpeech": "",
+    "translation": "auxiliary word for ordinal numbers (second )",
+    "hskLevel": 1
+  },
+  {
+    "id": 76,
+    "word": "点",
+    "pinyin": "diǎn",
+    "partOfSpeech": "",
+    "translation": "spot",
+    "hskLevel": 1
+  },
+  {
+    "id": 77,
+    "word": "电",
+    "pinyin": "diàn",
+    "partOfSpeech": "",
+    "translation": "electricity",
+    "hskLevel": 1
+  },
+  {
+    "id": 78,
+    "word": "电话",
+    "pinyin": "diàn huà",
+    "partOfSpeech": "",
+    "translation": "phone",
+    "hskLevel": 1
+  },
+  {
+    "id": 79,
+    "word": "电脑",
+    "pinyin": "diànnǎo",
+    "partOfSpeech": "",
+    "translation": "Computer",
+    "hskLevel": 1
+  },
+  {
+    "id": 80,
+    "word": "电视",
+    "pinyin": "diànshì",
+    "partOfSpeech": "",
+    "translation": "television",
+    "hskLevel": 1
+  },
+  {
+    "id": 81,
+    "word": "电视机",
+    "pinyin": "diàn shì jī",
+    "partOfSpeech": "",
+    "translation": "television",
+    "hskLevel": 1
+  },
+  {
+    "id": 82,
+    "word": "电影",
+    "pinyin": "diànyǐng",
+    "partOfSpeech": "",
+    "translation": "Film",
+    "hskLevel": 1
+  },
+  {
+    "id": 83,
+    "word": "电影院",
+    "pinyin": "diàn yǐng yuàn",
+    "partOfSpeech": "",
+    "translation": "cinema; movie theater",
+    "hskLevel": 1
+  },
+  {
+    "id": 84,
+    "word": "东",
+    "pinyin": "dōng",
+    "partOfSpeech": "",
+    "translation": "east",
+    "hskLevel": 1
+  },
+  {
+    "id": 85,
+    "word": "东边",
+    "pinyin": "dōng biān",
+    "partOfSpeech": "",
+    "translation": "east side",
+    "hskLevel": 1
+  },
+  {
+    "id": 86,
+    "word": "东西",
+    "pinyin": "dōngxi",
+    "partOfSpeech": "",
+    "translation": "thing",
+    "hskLevel": 1
+  },
+  {
+    "id": 87,
+    "word": "动",
+    "pinyin": "dòng",
+    "partOfSpeech": "",
+    "translation": "move",
+    "hskLevel": 1
+  },
+  {
+    "id": 88,
+    "word": "动作",
+    "pinyin": "dòngzuò",
+    "partOfSpeech": "",
+    "translation": "action",
+    "hskLevel": 1
+  },
+  {
+    "id": 89,
+    "word": "都",
+    "pinyin": "dōu",
+    "partOfSpeech": "",
+    "translation": "all",
+    "hskLevel": 1
+  },
+  {
+    "id": 90,
+    "word": "读",
+    "pinyin": "dú",
+    "partOfSpeech": "",
+    "translation": "read",
+    "hskLevel": 1
+  },
+  {
+    "id": 91,
+    "word": "读书",
+    "pinyin": "dú shū",
+    "partOfSpeech": "",
+    "translation": "reading; study",
+    "hskLevel": 1
+  },
+  {
+    "id": 92,
+    "word": "对",
+    "pinyin": "duì",
+    "partOfSpeech": "",
+    "translation": "right",
+    "hskLevel": 1
+  },
+  {
+    "id": 93,
+    "word": "对不起",
+    "pinyin": "duìbuqǐ",
+    "partOfSpeech": "",
+    "translation": "I’m sorry.",
+    "hskLevel": 1
+  },
+  {
+    "id": 94,
+    "word": "多",
+    "pinyin": "duō",
+    "partOfSpeech": "",
+    "translation": "many; much; more",
+    "hskLevel": 1
+  },
+  {
+    "id": 95,
+    "word": "多少",
+    "pinyin": "duōshao",
+    "partOfSpeech": "",
+    "translation": "how much",
+    "hskLevel": 1
+  },
+  {
+    "id": 96,
+    "word": "饿",
+    "pinyin": "è",
+    "partOfSpeech": "",
+    "translation": "hungry",
+    "hskLevel": 1
+  },
+  {
+    "id": 97,
+    "word": "儿子",
+    "pinyin": "érzi",
+    "partOfSpeech": "",
+    "translation": "Son",
+    "hskLevel": 1
+  },
+  {
+    "id": 98,
+    "word": "二",
+    "pinyin": "èr",
+    "partOfSpeech": "",
+    "translation": "Two",
+    "hskLevel": 1
+  },
+  {
+    "id": 99,
+    "word": "饭",
+    "pinyin": "fàn",
+    "partOfSpeech": "",
+    "translation": "rice; meal",
+    "hskLevel": 1
+  },
+  {
+    "id": 100,
+    "word": "饭店",
+    "pinyin": "fàndiàn",
+    "partOfSpeech": "",
+    "translation": "restaurant",
+    "hskLevel": 1
+  }
+]

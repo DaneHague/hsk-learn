@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "word": "啊",
+    "pinyin": "a",
+    "partOfSpeech": "",
+    "translation": "auxiliary word",
+    "hskLevel": 2
+  },
+  {
+    "id": 2,
+    "word": "爱情",
+    "pinyin": "àiqíng",
+    "partOfSpeech": "",
+    "translation": "Love",
+    "hskLevel": 2
+  },
+  {
+    "id": 3,
+    "word": "爱人",
+    "pinyin": "ài rén",
+    "partOfSpeech": "",
+    "translation": "lover",
+    "hskLevel": 2
+  },
+  {
+    "id": 4,
+    "word": "安静",
+    "pinyin": "ānjìng",
+    "partOfSpeech": "",
+    "translation": "Be quiet",
+    "hskLevel": 2
+  },
+  {
+    "id": 5,
+    "word": "安全",
+    "pinyin": "ānquán",
+    "partOfSpeech": "",
+    "translation": "security",
+    "hskLevel": 2
+  },
+  {
+    "id": 6,
+    "word": "白色",
+    "pinyin": "bái sè",
+    "partOfSpeech": "",
+    "translation": "white",
+    "hskLevel": 2
+  },
+  {
+    "id": 7,
+    "word": "班长",
+    "pinyin": "bān zhǎng",
+    "partOfSpeech": "",
+    "translation": "monitor; squad leader",
+    "hskLevel": 2
+  },
+  {
+    "id": 8,
+    "word": "办",
+    "pinyin": "bàn",
+    "partOfSpeech": "",
+    "translation": "do",
+    "hskLevel": 2
+  },
+  {
+    "id": 9,
+    "word": "办法",
+    "pinyin": "bànfǎ",
+    "partOfSpeech": "",
+    "translation": "Way",
+    "hskLevel": 2
+  },
+  {
+    "id": 10,
+    "word": "办公室",
+    "pinyin": "bàngōngshì",
+    "partOfSpeech": "",
+    "translation": "Office",
+    "hskLevel": 2
+  },
+  {
+    "id": 11,
+    "word": "半夜",
+    "pinyin": "bàn yè",
+    "partOfSpeech": "",
+    "translation": "midnight",
+    "hskLevel": 2
+  },
+  {
+    "id": 12,
+    "word": "帮助",
+    "pinyin": "bāngzhù",
+    "partOfSpeech": "",
+    "translation": "Help",
+    "hskLevel": 2
+  },
+  {
+    "id": 13,
+    "word": "饱",
+    "pinyin": "bǎo",
+    "partOfSpeech": "",
+    "translation": "full",
+    "hskLevel": 2
+  },
+  {
+    "id": 14,
+    "word": "报名",
+    "pinyin": "bàomíng",
+    "partOfSpeech": "",
+    "translation": "sign up",
+    "hskLevel": 2
+  },
+  {
+    "id": 15,
+    "word": "报纸",
+    "pinyin": "bàozhǐ",
+    "partOfSpeech": "",
+    "translation": "Newspaper",
+    "hskLevel": 2
+  },
+  {
+    "id": 16,
+    "word": "北方",
+    "pinyin": "běifāng",
+    "partOfSpeech": "",
+    "translation": "north",
+    "hskLevel": 2
+  },
+  {
+    "id": 17,
+    "word": "背",
+    "pinyin": "bēi",
+    "partOfSpeech": "",
+    "translation": "carry on the back; shoulder",
+    "hskLevel": 2
+  },
+  {
+    "id": 18,
+    "word": "比如",
+    "pinyin": "bǐrú",
+    "partOfSpeech": "",
+    "translation": "such as",
+    "hskLevel": 2
+  },
+  {
+    "id": 19,
+    "word": "比如说",
+    "pinyin": "bǐ rú shuō",
+    "partOfSpeech": "",
+    "translation": "for example",
+    "hskLevel": 2
+  },
+  {
+    "id": 20,
+    "word": "笔",
+    "pinyin": "bǐ",
+    "partOfSpeech": "",
+    "translation": "pen",
+    "hskLevel": 2
+  },
+  {
+    "id": 21,
+    "word": "笔记",
+    "pinyin": "bǐ jì",
+    "partOfSpeech": "",
+    "translation": "note; notes",
+    "hskLevel": 2
+  },
+  {
+    "id": 22,
+    "word": "笔记本",
+    "pinyin": "bǐjìběn",
+    "partOfSpeech": "",
+    "translation": "Notebook",
+    "hskLevel": 2
+  },
+  {
+    "id": 23,
+    "word": "必须",
+    "pinyin": "bìxū",
+    "partOfSpeech": "",
+    "translation": "Must",
+    "hskLevel": 2
+  },
+  {
+    "id": 24,
+    "word": "边",
+    "pinyin": "biān",
+    "partOfSpeech": "",
+    "translation": "side",
+    "hskLevel": 2
+  },
+  {
+    "id": 25,
+    "word": "变",
+    "pinyin": "biàn",
+    "partOfSpeech": "",
+    "translation": "change",
+    "hskLevel": 2
+  },
+  {
+    "id": 26,
+    "word": "变成",
+    "pinyin": "biàn chéng",
+    "partOfSpeech": "",
+    "translation": "become; change into",
+    "hskLevel": 2
+  },
+  {
+    "id": 27,
+    "word": "遍",
+    "pinyin": "biàn",
+    "partOfSpeech": "",
+    "translation": "Times",
+    "hskLevel": 2
+  },
+  {
+    "id": 28,
+    "word": "表",
+    "pinyin": "biǎo",
+    "partOfSpeech": "",
+    "translation": "watch",
+    "hskLevel": 2
+  },
+  {
+    "id": 29,
+    "word": "表示",
+    "pinyin": "biǎoshì",
+    "partOfSpeech": "",
+    "translation": "Express",
+    "hskLevel": 2
+  },
+  {
+    "id": 30,
+    "word": "不错",
+    "pinyin": "bú cuò",
+    "partOfSpeech": "",
+    "translation": "not bad; pretty good",
+    "hskLevel": 2
+  },
+  {
+    "id": 31,
+    "word": "不但",
+    "pinyin": "bú dàn",
+    "partOfSpeech": "",
+    "translation": "not only",
+    "hskLevel": 2
+  },
+  {
+    "id": 32,
+    "word": "不够",
+    "pinyin": "bú gòu",
+    "partOfSpeech": "",
+    "translation": "not enough",
+    "hskLevel": 2
+  },
+  {
+    "id": 33,
+    "word": "不过",
+    "pinyin": "búguò",
+    "partOfSpeech": "",
+    "translation": "However",
+    "hskLevel": 2
+  },
+  {
+    "id": 34,
+    "word": "不太",
+    "pinyin": "bú tài",
+    "partOfSpeech": "",
+    "translation": "not too; not very much",
+    "hskLevel": 2
+  },
+  {
+    "id": 35,
+    "word": "不要",
+    "pinyin": "bú yào",
+    "partOfSpeech": "",
+    "translation": "don’t",
+    "hskLevel": 2
+  },
+  {
+    "id": 36,
+    "word": "不好意思",
+    "pinyin": "bù hǎo yì sī",
+    "partOfSpeech": "",
+    "translation": "sorry; feel embarrassed",
+    "hskLevel": 2
+  },
+  {
+    "id": 37,
+    "word": "不久",
+    "pinyin": "bù jiǔ",
+    "partOfSpeech": "",
+    "translation": "soon",
+    "hskLevel": 2
+  },
+  {
+    "id": 38,
+    "word": "不满",
+    "pinyin": "bù mǎn",
+    "partOfSpeech": "",
+    "translation": "dissatisfied",
+    "hskLevel": 2
+  },
+  {
+    "id": 39,
+    "word": "不如",
+    "pinyin": "bùrú",
+    "partOfSpeech": "",
+    "translation": "not as good as",
+    "hskLevel": 2
+  },
+  {
+    "id": 40,
+    "word": "不少",
+    "pinyin": "bù shǎo",
+    "partOfSpeech": "",
+    "translation": "not a few; a lot",
+    "hskLevel": 2
+  },
+  {
+    "id": 41,
+    "word": "不同",
+    "pinyin": "bù tóng",
+    "partOfSpeech": "",
+    "translation": "different",
+    "hskLevel": 2
+  },
+  {
+    "id": 42,
+    "word": "不行",
+    "pinyin": "bù xíng",
+    "partOfSpeech": "",
+    "translation": "no way; be out of the question",
+    "hskLevel": 2
+  },
+  {
+    "id": 43,
+    "word": "不一定",
+    "pinyin": "bù yī dìng",
+    "partOfSpeech": "",
+    "translation": "not necessarily; uncertain",
+    "hskLevel": 2
+  },
+  {
+    "id": 44,
+    "word": "不一会儿",
+    "pinyin": "bù yī huìr",
+    "partOfSpeech": "",
+    "translation": "in a moment; in a little while; soon",
+    "hskLevel": 2
+  },
+  {
+    "id": 45,
+    "word": "部分",
+    "pinyin": "bùfen",
+    "partOfSpeech": "",
+    "translation": "Part",
+    "hskLevel": 2
+  },
+  {
+    "id": 46,
+    "word": "才",
+    "pinyin": "cái",
+    "partOfSpeech": "",
+    "translation": "only; just",
+    "hskLevel": 2
+  },
+  {
+    "id": 47,
+    "word": "菜单",
+    "pinyin": "càidān",
+    "partOfSpeech": "",
+    "translation": "menu",
+    "hskLevel": 2
+  },
+  {
+    "id": 48,
+    "word": "参观",
+    "pinyin": "cānguān",
+    "partOfSpeech": "",
+    "translation": "visit",
+    "hskLevel": 2
+  },
+  {
+    "id": 49,
+    "word": "参加",
+    "pinyin": "cānjiā",
+    "partOfSpeech": "",
+    "translation": "participate in",
+    "hskLevel": 2
+  },
+  {
+    "id": 50,
+    "word": "草",
+    "pinyin": "cǎo",
+    "partOfSpeech": "",
+    "translation": "grass",
+    "hskLevel": 2
+  },
+  {
+    "id": 51,
+    "word": "草地",
+    "pinyin": "cǎo dì",
+    "partOfSpeech": "",
+    "translation": "grass; lawn",
+    "hskLevel": 2
+  },
+  {
+    "id": 52,
+    "word": "层",
+    "pinyin": "céng",
+    "partOfSpeech": "",
+    "translation": "layer",
+    "hskLevel": 2
+  },
+  {
+    "id": 53,
+    "word": "查",
+    "pinyin": "chá",
+    "partOfSpeech": "",
+    "translation": "search; check",
+    "hskLevel": 2
+  },
+  {
+    "id": 54,
+    "word": "差不多",
+    "pinyin": "chàbuduō",
+    "partOfSpeech": "",
+    "translation": "Almost",
+    "hskLevel": 2
+  },
+  {
+    "id": 55,
+    "word": "长",
+    "pinyin": "cháng",
+    "partOfSpeech": "",
+    "translation": "long",
+    "hskLevel": 2
+  },
+  {
+    "id": 56,
+    "word": "常见",
+    "pinyin": "cháng jiàn",
+    "partOfSpeech": "",
+    "translation": "common",
+    "hskLevel": 2
+  },
+  {
+    "id": 57,
+    "word": "常用",
+    "pinyin": "cháng yòng",
+    "partOfSpeech": "",
+    "translation": "in common use",
+    "hskLevel": 2
+  },
+  {
+    "id": 58,
+    "word": "场",
+    "pinyin": "chǎng",
+    "partOfSpeech": "",
+    "translation": "site",
+    "hskLevel": 2
+  },
+  {
+    "id": 59,
+    "word": "超过",
+    "pinyin": "chāoguò",
+    "partOfSpeech": "",
+    "translation": "Exceed",
+    "hskLevel": 2
+  },
+  {
+    "id": 60,
+    "word": "超市",
+    "pinyin": "chāoshì",
+    "partOfSpeech": "",
+    "translation": "Supermarket",
+    "hskLevel": 2
+  },
+  {
+    "id": 61,
+    "word": "车辆",
+    "pinyin": "chē liàng",
+    "partOfSpeech": "",
+    "translation": "car; vehicle",
+    "hskLevel": 2
+  },
+  {
+    "id": 62,
+    "word": "称",
+    "pinyin": "¹（动） chēng",
+    "partOfSpeech": "",
+    "translation": "call; say",
+    "hskLevel": 2
+  },
+  {
+    "id": 63,
+    "word": "成",
+    "pinyin": "chéng",
+    "partOfSpeech": "",
+    "translation": "become; finish",
+    "hskLevel": 2
+  },
+  {
+    "id": 64,
+    "word": "成绩",
+    "pinyin": "chéngjì",
+    "partOfSpeech": "",
+    "translation": "achievement",
+    "hskLevel": 2
+  },
+  {
+    "id": 65,
+    "word": "成为",
+    "pinyin": "chéngwéi",
+    "partOfSpeech": "",
+    "translation": "Become",
+    "hskLevel": 2
+  },
+  {
+    "id": 66,
+    "word": "重复",
+    "pinyin": "chóngfù",
+    "partOfSpeech": "",
+    "translation": "repeat",
+    "hskLevel": 2
+  },
+  {
+    "id": 67,
+    "word": "重新",
+    "pinyin": "chóngxīn",
+    "partOfSpeech": "",
+    "translation": "again",
+    "hskLevel": 2
+  },
+  {
+    "id": 68,
+    "word": "出发",
+    "pinyin": "chūfā",
+    "partOfSpeech": "",
+    "translation": "Set out",
+    "hskLevel": 2
+  },
+  {
+    "id": 69,
+    "word": "出国",
+    "pinyin": "chū guó",
+    "partOfSpeech": "",
+    "translation": "go abroad",
+    "hskLevel": 2
+  },
+  {
+    "id": 70,
+    "word": "出口",
+    "pinyin": "chū kǒu",
+    "partOfSpeech": "",
+    "translation": "export",
+    "hskLevel": 2
+  },
+  {
+    "id": 71,
+    "word": "出门",
+    "pinyin": "chū mén",
+    "partOfSpeech": "",
+    "translation": "go out",
+    "hskLevel": 2
+  },
+  {
+    "id": 72,
+    "word": "出生",
+    "pinyin": "chūshēng",
+    "partOfSpeech": "",
+    "translation": "Birth",
+    "hskLevel": 2
+  },
+  {
+    "id": 73,
+    "word": "出现",
+    "pinyin": "chūxiàn",
+    "partOfSpeech": "",
+    "translation": "Appear",
+    "hskLevel": 2
+  },
+  {
+    "id": 74,
+    "word": "出院",
+    "pinyin": "chū yuàn",
+    "partOfSpeech": "",
+    "translation": "discharged; leave hospital",
+    "hskLevel": 2
+  },
+  {
+    "id": 75,
+    "word": "出租",
+    "pinyin": "chū zū",
+    "partOfSpeech": "",
+    "translation": "rent",
+    "hskLevel": 2
+  },
+  {
+    "id": 76,
+    "word": "出租车",
+    "pinyin": "chūzūchē",
+    "partOfSpeech": "",
+    "translation": "Taxi",
+    "hskLevel": 2
+  },
+  {
+    "id": 77,
+    "word": "船",
+    "pinyin": "chuán",
+    "partOfSpeech": "",
+    "translation": "ship",
+    "hskLevel": 2
+  },
+  {
+    "id": 78,
+    "word": "吹",
+    "pinyin": "chuī",
+    "partOfSpeech": "",
+    "translation": "blow",
+    "hskLevel": 2
+  },
+  {
+    "id": 79,
+    "word": "春节",
+    "pinyin": "chūn jié",
+    "partOfSpeech": "",
+    "translation": "Spring Festival; Chinese New Year",
+    "hskLevel": 2
+  },
+  {
+    "id": 80,
+    "word": "春天",
+    "pinyin": "chūn tiān",
+    "partOfSpeech": "",
+    "translation": "spring",
+    "hskLevel": 2
+  },
+  {
+    "id": 81,
+    "word": "词",
+    "pinyin": "cí",
+    "partOfSpeech": "",
+    "translation": "word",
+    "hskLevel": 2
+  },
+  {
+    "id": 82,
+    "word": "词典",
+    "pinyin": "cídiǎn",
+    "partOfSpeech": "",
+    "translation": "Dictionary",
+    "hskLevel": 2
+  },
+  {
+    "id": 83,
+    "word": "词语",
+    "pinyin": "cíyǔ",
+    "partOfSpeech": "",
+    "translation": "terms",
+    "hskLevel": 2
+  },
+  {
+    "id": 84,
+    "word": "从小",
+    "pinyin": "cóng xiǎo",
+    "partOfSpeech": "",
+    "translation": "from childhood",
+    "hskLevel": 2
+  },
+  {
+    "id": 85,
+    "word": "答应",
+    "pinyin": "dāying",
+    "partOfSpeech": "",
+    "translation": "promise",
+    "hskLevel": 2
+  },
+  {
+    "id": 86,
+    "word": "打工",
+    "pinyin": "dǎgōng",
+    "partOfSpeech": "",
+    "translation": "Work",
+    "hskLevel": 2
+  },
+  {
+    "id": 87,
+    "word": "打算",
+    "pinyin": "dǎsuàn",
+    "partOfSpeech": "",
+    "translation": "Plan",
+    "hskLevel": 2
+  },
+  {
+    "id": 88,
+    "word": "打印",
+    "pinyin": "dǎyìn",
+    "partOfSpeech": "",
+    "translation": "Print",
+    "hskLevel": 2
+  },
+  {
+    "id": 89,
+    "word": "大部分",
+    "pinyin": "dà bù fèn",
+    "partOfSpeech": "",
+    "translation": "most",
+    "hskLevel": 2
+  },
+  {
+    "id": 90,
+    "word": "大大",
+    "pinyin": "dà dà",
+    "partOfSpeech": "",
+    "translation": "greatly; enormously",
+    "hskLevel": 2
+  },
+  {
+    "id": 91,
+    "word": "大多数",
+    "pinyin": "dà duō shù",
+    "partOfSpeech": "",
+    "translation": "most; great majority",
+    "hskLevel": 2
+  },
+  {
+    "id": 92,
+    "word": "大海",
+    "pinyin": "dà hǎi",
+    "partOfSpeech": "",
+    "translation": "sea",
+    "hskLevel": 2
+  },
+  {
+    "id": 93,
+    "word": "大家",
+    "pinyin": "dàjiā",
+    "partOfSpeech": "",
+    "translation": "everybody",
+    "hskLevel": 2
+  },
+  {
+    "id": 94,
+    "word": "大量",
+    "pinyin": "dà liàng",
+    "partOfSpeech": "",
+    "translation": "a lot of; lots of",
+    "hskLevel": 2
+  },
+  {
+    "id": 95,
+    "word": "大门",
+    "pinyin": "dà mén",
+    "partOfSpeech": "",
+    "translation": "door; gate",
+    "hskLevel": 2
+  },
+  {
+    "id": 96,
+    "word": "大人",
+    "pinyin": "dà rén",
+    "partOfSpeech": "",
+    "translation": "adult",
+    "hskLevel": 2
+  },
+  {
+    "id": 97,
+    "word": "大声",
+    "pinyin": "dà shēng",
+    "partOfSpeech": "",
+    "translation": "loud",
+    "hskLevel": 2
+  },
+  {
+    "id": 98,
+    "word": "大小",
+    "pinyin": "dà xiǎo",
+    "partOfSpeech": "",
+    "translation": "size",
+    "hskLevel": 2
+  },
+  {
+    "id": 99,
+    "word": "大衣",
+    "pinyin": "dà yī",
+    "partOfSpeech": "",
+    "translation": "overcoat",
+    "hskLevel": 2
+  },
+  {
+    "id": 100,
+    "word": "大自然",
+    "pinyin": "dà zì rán",
+    "partOfSpeech": "",
+    "translation": "nature",
+    "hskLevel": 2
+  }
+]
